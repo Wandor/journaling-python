@@ -1,0 +1,876 @@
+2025-04-16 00:00:00.136 | INFO     | app.services.password_service:deactivate_expired_passwords:18 - No expired passwords to deactivate.
+2025-04-16 08:45:23.999 | INFO     | app.main:startup_event:60 - Redis connected on startup.
+2025-04-16 08:45:24.001 | INFO     | app.services.scheduler:start_cron_jobs:18 - Password expiry cron job scheduled.
+2025-04-16 08:46:55.233 | INFO     | app.main:startup_event:60 - Redis connected on startup.
+2025-04-16 08:46:55.234 | INFO     | app.services.scheduler:start_cron_jobs:18 - Password expiry cron job scheduled.
+2025-04-16 08:53:21.214 | INFO     | app.main:startup_event:60 - Redis connected on startup.
+2025-04-16 08:53:21.216 | INFO     | app.services.scheduler:start_cron_jobs:18 - Password expiry cron job scheduled.
+2025-04-16 08:54:43.179 | INFO     | app.main:startup_event:60 - Redis connected on startup.
+2025-04-16 08:54:43.181 | INFO     | app.services.scheduler:start_cron_jobs:18 - Password expiry cron job scheduled.
+2025-04-16 08:56:03.406 | INFO     | app.main:startup_event:60 - Redis connected on startup.
+2025-04-16 08:56:03.408 | INFO     | app.services.scheduler:start_cron_jobs:18 - Password expiry cron job scheduled.
+2025-04-16 09:00:35.881 | INFO     | app.main:startup_event:60 - Redis connected on startup.
+2025-04-16 09:00:35.883 | INFO     | app.services.scheduler:start_cron_jobs:18 - Password expiry cron job scheduled.
+2025-04-16 09:01:29.317 | INFO     | app.main:startup_event:60 - Redis connected on startup.
+2025-04-16 09:01:29.320 | INFO     | app.services.scheduler:start_cron_jobs:18 - Password expiry cron job scheduled.
+2025-04-16 09:02:04.275 | INFO     | app.main:startup_event:60 - Redis connected on startup.
+2025-04-16 09:02:04.277 | INFO     | app.services.scheduler:start_cron_jobs:18 - Password expiry cron job scheduled.
+2025-04-16 09:02:18.897 | INFO     | app.main:startup_event:60 - Redis connected on startup.
+2025-04-16 09:02:18.899 | INFO     | app.services.scheduler:start_cron_jobs:18 - Password expiry cron job scheduled.
+2025-04-16 09:04:15.849 | INFO     | app.main:startup_event:60 - Redis connected on startup.
+2025-04-16 09:04:15.851 | INFO     | app.services.scheduler:start_cron_jobs:18 - Password expiry cron job scheduled.
+2025-04-16 09:10:36.976 | INFO     | app.main:startup_event:60 - Redis connected on startup.
+2025-04-16 09:10:36.978 | INFO     | app.services.scheduler:start_cron_jobs:18 - Password expiry cron job scheduled.
+2025-04-16 09:12:10.914 | INFO     | app.main:startup_event:60 - Redis connected on startup.
+2025-04-16 09:12:10.915 | INFO     | app.services.scheduler:start_cron_jobs:18 - Password expiry cron job scheduled.
+2025-04-16 09:12:32.223 | INFO     | app.main:startup_event:60 - Redis connected on startup.
+2025-04-16 09:12:32.225 | INFO     | app.services.scheduler:start_cron_jobs:18 - Password expiry cron job scheduled.
+2025-04-16 09:13:47.662 | INFO     | app.main:startup_event:60 - Redis connected on startup.
+2025-04-16 09:13:47.664 | INFO     | app.services.scheduler:start_cron_jobs:18 - Password expiry cron job scheduled.
+2025-04-16 09:14:15.452 | INFO     | app.main:startup_event:60 - Redis connected on startup.
+2025-04-16 09:14:15.454 | INFO     | app.services.scheduler:start_cron_jobs:18 - Password expiry cron job scheduled.
+2025-04-16 09:14:30.199 | INFO     | app.main:startup_event:60 - Redis connected on startup.
+2025-04-16 09:14:30.201 | INFO     | app.services.scheduler:start_cron_jobs:18 - Password expiry cron job scheduled.
+2025-04-16 09:14:40.114 | INFO     | app.main:startup_event:60 - Redis connected on startup.
+2025-04-16 09:14:40.116 | INFO     | app.services.scheduler:start_cron_jobs:18 - Password expiry cron job scheduled.
+2025-04-16 09:14:52.843 | INFO     | app.main:startup_event:60 - Redis connected on startup.
+2025-04-16 09:14:52.845 | INFO     | app.services.scheduler:start_cron_jobs:18 - Password expiry cron job scheduled.
+2025-04-16 09:15:39.786 | INFO     | app.main:startup_event:60 - Redis connected on startup.
+2025-04-16 09:15:39.788 | INFO     | app.services.scheduler:start_cron_jobs:18 - Password expiry cron job scheduled.
+2025-04-16 09:17:39.477 | INFO     | app.main:startup_event:60 - Redis connected on startup.
+2025-04-16 09:17:39.479 | INFO     | app.services.scheduler:start_cron_jobs:18 - Password expiry cron job scheduled.
+2025-04-16 09:18:52.324 | INFO     | app.main:startup_event:60 - Redis connected on startup.
+2025-04-16 09:18:52.326 | INFO     | app.services.scheduler:start_cron_jobs:18 - Password expiry cron job scheduled.
+2025-04-16 09:20:38.698 | INFO     | app.main:startup_event:60 - Redis connected on startup.
+2025-04-16 09:20:38.700 | INFO     | app.services.scheduler:start_cron_jobs:18 - Password expiry cron job scheduled.
+2025-04-16 09:20:59.843 | INFO     | app.main:startup_event:60 - Redis connected on startup.
+2025-04-16 09:20:59.844 | INFO     | app.services.scheduler:start_cron_jobs:18 - Password expiry cron job scheduled.
+2025-04-16 09:28:35.909 | INFO     | app.main:startup_event:60 - Redis connected on startup.
+2025-04-16 09:28:35.912 | INFO     | app.services.scheduler:start_cron_jobs:18 - Password expiry cron job scheduled.
+2025-04-16 09:47:04.243 | INFO     | app.main:startup_event:60 - Redis connected on startup.
+2025-04-16 09:47:04.245 | INFO     | app.services.scheduler:start_cron_jobs:18 - Password expiry cron job scheduled.
+2025-04-16 09:48:08.456 | INFO     | app.main:startup_event:60 - Redis connected on startup.
+2025-04-16 09:48:08.458 | INFO     | app.services.scheduler:start_cron_jobs:18 - Password expiry cron job scheduled.
+2025-04-16 09:54:51.581 | INFO     | app.main:startup_event:60 - Redis connected on startup.
+2025-04-16 09:54:51.583 | INFO     | app.services.scheduler:start_cron_jobs:18 - Password expiry cron job scheduled.
+2025-04-16 10:00:26.745 | INFO     | app.main:startup_event:60 - Redis connected on startup.
+2025-04-16 10:00:26.748 | INFO     | app.services.scheduler:start_cron_jobs:18 - Password expiry cron job scheduled.
+2025-04-16 11:21:08.713 | INFO     | app.main:startup_event:60 - Redis connected on startup.
+2025-04-16 11:21:08.715 | INFO     | app.services.scheduler:start_cron_jobs:18 - Password expiry cron job scheduled.
+2025-04-16 11:23:20.380 | INFO     | app.main:startup_event:57 - Redis connected on startup.
+2025-04-16 11:23:20.382 | INFO     | app.services.scheduler:start_cron_jobs:18 - Password expiry cron job scheduled.
+2025-04-16 11:27:39.430 | INFO     | app.main:startup_event:57 - Redis connected on startup.
+2025-04-16 11:27:39.432 | INFO     | app.services.scheduler:start_cron_jobs:18 - Password expiry cron job scheduled.
+2025-04-16 11:28:05.207 | INFO     | app.main:startup_event:57 - Redis connected on startup.
+2025-04-16 11:28:05.209 | INFO     | app.services.scheduler:start_cron_jobs:18 - Password expiry cron job scheduled.
+2025-04-16 11:29:03.870 | INFO     | app.main:startup_event:58 - ✅ Redis connected on startup.
+2025-04-16 11:29:03.872 | INFO     | app.services.scheduler:start_cron_jobs:18 - Password expiry cron job scheduled.
+2025-04-16 11:29:03.895 | INFO     | app.main:startup_event:66 - ✅ RabbitMQ connected on startup.
+2025-04-16 11:30:34.779 | INFO     | app.main:startup_event:58 - Redis connected on startup.
+2025-04-16 11:30:34.781 | INFO     | app.services.scheduler:start_cron_jobs:18 - Password expiry cron job scheduled.
+2025-04-16 11:30:34.811 | INFO     | app.main:startup_event:66 - RabbitMQ connected on startup.
+2025-04-16 11:31:17.123 | INFO     | app.main:startup_event:58 - Redis connected on startup.
+2025-04-16 11:31:17.125 | INFO     | app.services.scheduler:start_cron_jobs:18 - Password expiry cron job scheduled.
+2025-04-16 11:31:17.134 | INFO     | app.main:startup_event:66 - RabbitMQ connected on startup.
+2025-04-16 11:33:48.869 | INFO     | app.main:startup_event:58 - Redis connected on startup.
+2025-04-16 11:33:48.871 | INFO     | app.services.scheduler:start_cron_jobs:18 - Password expiry cron job scheduled.
+2025-04-16 11:33:48.890 | INFO     | app.main:startup_event:66 - RabbitMQ connected on startup.
+2025-04-16 11:35:52.866 | INFO     | app.main:startup_event:58 - Redis connected on startup.
+2025-04-16 11:35:52.868 | INFO     | app.services.scheduler:start_cron_jobs:18 - Password expiry cron job scheduled.
+2025-04-16 11:35:52.890 | INFO     | app.main:startup_event:66 - RabbitMQ connected on startup.
+2025-04-16 11:36:49.251 | INFO     | app.main:startup_event:58 - Redis connected on startup.
+2025-04-16 11:36:49.253 | INFO     | app.services.scheduler:start_cron_jobs:18 - Password expiry cron job scheduled.
+2025-04-16 11:36:49.261 | INFO     | app.main:startup_event:66 - RabbitMQ connected on startup.
+2025-04-16 11:40:04.117 | INFO     | app.main:startup_event:60 - Redis connected on startup.
+2025-04-16 11:40:04.119 | INFO     | app.services.scheduler:start_cron_jobs:18 - Password expiry cron job scheduled.
+2025-04-16 11:40:04.139 | INFO     | app.main:startup_event:68 - RabbitMQ connected on startup.
+2025-04-16 11:40:31.797 | INFO     | app.main:startup_event:60 - Redis connected on startup.
+2025-04-16 11:40:31.799 | INFO     | app.services.scheduler:start_cron_jobs:18 - Password expiry cron job scheduled.
+2025-04-16 11:40:31.808 | INFO     | app.main:startup_event:68 - RabbitMQ connected on startup.
+2025-04-16 11:45:57.479 | INFO     | app.main:startup_event:60 - Redis connected on startup.
+2025-04-16 11:45:57.481 | INFO     | app.services.scheduler:start_cron_jobs:18 - Password expiry cron job scheduled.
+2025-04-16 11:45:57.499 | INFO     | app.main:startup_event:68 - RabbitMQ connected on startup.
+2025-04-16 11:46:43.554 | INFO     | app.main:startup_event:60 - Redis connected on startup.
+2025-04-16 11:46:43.556 | INFO     | app.services.scheduler:start_cron_jobs:18 - Password expiry cron job scheduled.
+2025-04-16 11:46:43.566 | INFO     | app.main:startup_event:68 - RabbitMQ connected on startup.
+2025-04-16 11:55:31.411 | INFO     | app.main:startup_event:60 - Redis connected on startup.
+2025-04-16 11:55:31.413 | INFO     | app.services.scheduler:start_cron_jobs:18 - Password expiry cron job scheduled.
+2025-04-16 11:55:31.437 | INFO     | app.main:startup_event:68 - RabbitMQ connected on startup.
+2025-04-16 11:57:13.726 | INFO     | app.main:startup_event:60 - Redis connected on startup.
+2025-04-16 11:57:13.728 | INFO     | app.services.scheduler:start_cron_jobs:18 - Password expiry cron job scheduled.
+2025-04-16 11:57:13.743 | INFO     | app.main:startup_event:68 - RabbitMQ connected on startup.
+2025-04-16 11:59:17.292 | INFO     | app.main:startup_event:60 - Redis connected on startup.
+2025-04-16 11:59:17.294 | INFO     | app.services.scheduler:start_cron_jobs:18 - Password expiry cron job scheduled.
+2025-04-16 11:59:17.310 | INFO     | app.main:startup_event:68 - RabbitMQ connected on startup.
+2025-04-16 12:01:49.187 | INFO     | app.main:startup_event:60 - Redis connected on startup.
+2025-04-16 12:01:49.188 | INFO     | app.services.scheduler:start_cron_jobs:18 - Password expiry cron job scheduled.
+2025-04-16 12:01:49.209 | INFO     | app.main:startup_event:68 - RabbitMQ connected on startup.
+2025-04-16 12:05:31.580 | INFO     | app.main:startup_event:60 - Redis connected on startup.
+2025-04-16 12:05:31.582 | INFO     | app.services.scheduler:start_cron_jobs:18 - Password expiry cron job scheduled.
+2025-04-16 12:05:31.601 | INFO     | app.main:startup_event:68 - RabbitMQ connected on startup.
+2025-04-16 12:05:57.871 | INFO     | app.main:startup_event:60 - Redis connected on startup.
+2025-04-16 12:05:57.873 | INFO     | app.services.scheduler:start_cron_jobs:18 - Password expiry cron job scheduled.
+2025-04-16 12:05:57.883 | INFO     | app.main:startup_event:68 - RabbitMQ connected on startup.
+2025-04-16 12:07:46.468 | INFO     | app.main:startup_event:60 - Redis connected on startup.
+2025-04-16 12:07:46.469 | INFO     | app.services.scheduler:start_cron_jobs:18 - Password expiry cron job scheduled.
+2025-04-16 12:07:46.486 | INFO     | app.main:startup_event:68 - RabbitMQ connected on startup.
+2025-04-16 12:08:02.002 | INFO     | app.main:startup_event:60 - Redis connected on startup.
+2025-04-16 12:08:02.004 | INFO     | app.services.scheduler:start_cron_jobs:18 - Password expiry cron job scheduled.
+2025-04-16 12:08:02.013 | INFO     | app.main:startup_event:68 - RabbitMQ connected on startup.
+2025-04-16 12:09:19.733 | INFO     | app.main:startup_event:60 - Redis connected on startup.
+2025-04-16 12:09:19.735 | INFO     | app.services.scheduler:start_cron_jobs:18 - Password expiry cron job scheduled.
+2025-04-16 12:09:19.754 | INFO     | app.main:startup_event:68 - RabbitMQ connected on startup.
+2025-04-16 12:10:44.102 | INFO     | app.main:startup_event:60 - Redis connected on startup.
+2025-04-16 12:10:44.104 | INFO     | app.services.scheduler:start_cron_jobs:18 - Password expiry cron job scheduled.
+2025-04-16 12:10:44.122 | INFO     | app.main:startup_event:68 - RabbitMQ connected on startup.
+2025-04-16 12:12:31.527 | INFO     | app.main:startup_event:60 - Redis connected on startup.
+2025-04-16 12:12:31.529 | INFO     | app.services.scheduler:start_cron_jobs:18 - Password expiry cron job scheduled.
+2025-04-16 12:12:31.550 | INFO     | app.main:startup_event:68 - RabbitMQ connected on startup.
+2025-04-16 12:13:12.852 | INFO     | app.main:startup_event:60 - Redis connected on startup.
+2025-04-16 12:13:12.854 | INFO     | app.services.scheduler:start_cron_jobs:18 - Password expiry cron job scheduled.
+2025-04-16 12:13:12.865 | INFO     | app.main:startup_event:68 - RabbitMQ connected on startup.
+2025-04-16 12:14:26.883 | INFO     | app.main:startup_event:60 - Redis connected on startup.
+2025-04-16 12:14:26.886 | INFO     | app.services.scheduler:start_cron_jobs:18 - Password expiry cron job scheduled.
+2025-04-16 12:14:26.910 | INFO     | app.main:startup_event:68 - RabbitMQ connected on startup.
+2025-04-16 12:15:48.321 | INFO     | app.main:startup_event:60 - Redis connected on startup.
+2025-04-16 12:15:48.323 | INFO     | app.services.scheduler:start_cron_jobs:18 - Password expiry cron job scheduled.
+2025-04-16 12:15:48.341 | INFO     | app.main:startup_event:68 - RabbitMQ connected on startup.
+2025-04-16 12:17:20.051 | INFO     | app.main:startup_event:60 - Redis connected on startup.
+2025-04-16 12:17:20.053 | INFO     | app.services.scheduler:start_cron_jobs:18 - Password expiry cron job scheduled.
+2025-04-16 12:17:20.074 | INFO     | app.main:startup_event:68 - RabbitMQ connected on startup.
+2025-04-16 12:17:41.509 | INFO     | app.main:startup_event:60 - Redis connected on startup.
+2025-04-16 12:17:41.511 | INFO     | app.services.scheduler:start_cron_jobs:18 - Password expiry cron job scheduled.
+2025-04-16 12:17:41.520 | INFO     | app.main:startup_event:68 - RabbitMQ connected on startup.
+2025-04-16 12:47:45.597 | INFO     | app.main:startup_event:60 - Redis connected on startup.
+2025-04-16 12:47:45.599 | INFO     | app.services.scheduler:start_cron_jobs:18 - Password expiry cron job scheduled.
+2025-04-16 12:47:48.759 | INFO     | app.main:startup_event:68 - RabbitMQ connected on startup.
+2025-04-16 12:48:47.650 | INFO     | app.main:startup_event:60 - Redis connected on startup.
+2025-04-16 12:48:47.652 | INFO     | app.services.scheduler:start_cron_jobs:18 - Password expiry cron job scheduled.
+2025-04-16 12:48:47.662 | INFO     | app.main:startup_event:68 - RabbitMQ connected on startup.
+2025-04-16 12:48:58.736 | INFO     | app.main:startup_event:60 - Redis connected on startup.
+2025-04-16 12:48:58.738 | INFO     | app.services.scheduler:start_cron_jobs:18 - Password expiry cron job scheduled.
+2025-04-16 12:48:58.746 | INFO     | app.main:startup_event:68 - RabbitMQ connected on startup.
+2025-04-16 12:50:00.480 | INFO     | app.main:startup_event:60 - Redis connected on startup.
+2025-04-16 12:50:00.482 | INFO     | app.services.scheduler:start_cron_jobs:18 - Password expiry cron job scheduled.
+2025-04-16 12:50:00.501 | INFO     | app.main:startup_event:68 - RabbitMQ connected on startup.
+2025-04-16 12:50:35.637 | INFO     | app.main:startup_event:60 - Redis connected on startup.
+2025-04-16 12:50:35.639 | INFO     | app.services.scheduler:start_cron_jobs:18 - Password expiry cron job scheduled.
+2025-04-16 12:50:35.647 | INFO     | app.main:startup_event:68 - RabbitMQ connected on startup.
+2025-04-16 12:51:49.083 | INFO     | app.main:startup_event:60 - Redis connected on startup.
+2025-04-16 12:51:49.085 | INFO     | app.services.scheduler:start_cron_jobs:18 - Password expiry cron job scheduled.
+2025-04-16 12:51:49.104 | INFO     | app.main:startup_event:68 - RabbitMQ connected on startup.
+2025-04-16 12:52:14.820 | INFO     | app.main:startup_event:60 - Redis connected on startup.
+2025-04-16 12:52:14.822 | INFO     | app.services.scheduler:start_cron_jobs:18 - Password expiry cron job scheduled.
+2025-04-16 12:52:14.830 | INFO     | app.main:startup_event:68 - RabbitMQ connected on startup.
+2025-04-16 12:53:45.548 | INFO     | app.main:startup_event:60 - Redis connected on startup.
+2025-04-16 12:53:45.550 | INFO     | app.services.scheduler:start_cron_jobs:18 - Password expiry cron job scheduled.
+2025-04-16 12:53:45.569 | INFO     | app.main:startup_event:68 - RabbitMQ connected on startup.
+2025-04-16 12:54:11.496 | WARNING  | app.core.redis_helper:redis_get:70 - Key not found in Redis: session-18732cc2-5d92-4d53-9872-fb416f2996b2
+2025-04-16 12:55:16.427 | INFO     | app.main:startup_event:60 - Redis connected on startup.
+2025-04-16 12:55:16.429 | INFO     | app.services.scheduler:start_cron_jobs:18 - Password expiry cron job scheduled.
+2025-04-16 12:55:16.447 | INFO     | app.main:startup_event:68 - RabbitMQ connected on startup.
+2025-04-16 12:55:50.382 | INFO     | app.main:startup_event:60 - Redis connected on startup.
+2025-04-16 12:55:50.384 | INFO     | app.services.scheduler:start_cron_jobs:18 - Password expiry cron job scheduled.
+2025-04-16 12:55:50.391 | INFO     | app.main:startup_event:68 - RabbitMQ connected on startup.
+2025-04-16 12:57:14.877 | INFO     | app.main:startup_event:60 - Redis connected on startup.
+2025-04-16 12:57:14.880 | INFO     | app.services.scheduler:start_cron_jobs:18 - Password expiry cron job scheduled.
+2025-04-16 12:57:14.894 | INFO     | app.main:startup_event:68 - RabbitMQ connected on startup.
+2025-04-16 12:58:23.470 | INFO     | app.main:startup_event:60 - Redis connected on startup.
+2025-04-16 12:58:23.472 | INFO     | app.services.scheduler:start_cron_jobs:18 - Password expiry cron job scheduled.
+2025-04-16 12:58:23.480 | INFO     | app.main:startup_event:68 - RabbitMQ connected on startup.
+2025-04-16 12:58:27.811 | WARNING  | app.core.redis_helper:redis_get:70 - Key not found in Redis: session-422fb7a8-9307-46a8-b189-f212735f3d58
+2025-04-16 12:59:35.606 | INFO     | app.main:startup_event:60 - Redis connected on startup.
+2025-04-16 12:59:35.607 | INFO     | app.services.scheduler:start_cron_jobs:18 - Password expiry cron job scheduled.
+2025-04-16 12:59:35.625 | INFO     | app.main:startup_event:68 - RabbitMQ connected on startup.
+2025-04-16 13:01:11.931 | INFO     | app.main:startup_event:60 - Redis connected on startup.
+2025-04-16 13:01:11.933 | INFO     | app.services.scheduler:start_cron_jobs:18 - Password expiry cron job scheduled.
+2025-04-16 13:01:11.955 | INFO     | app.main:startup_event:68 - RabbitMQ connected on startup.
+2025-04-16 13:02:25.210 | INFO     | app.main:startup_event:60 - Redis connected on startup.
+2025-04-16 13:02:25.211 | INFO     | app.services.scheduler:start_cron_jobs:18 - Password expiry cron job scheduled.
+2025-04-16 13:02:25.221 | INFO     | app.main:startup_event:68 - RabbitMQ connected on startup.
+2025-04-16 13:03:12.363 | INFO     | app.main:startup_event:60 - Redis connected on startup.
+2025-04-16 13:03:12.365 | INFO     | app.services.scheduler:start_cron_jobs:18 - Password expiry cron job scheduled.
+2025-04-16 13:03:12.381 | INFO     | app.main:startup_event:68 - RabbitMQ connected on startup.
+2025-04-16 13:04:19.957 | INFO     | app.main:startup_event:60 - Redis connected on startup.
+2025-04-16 13:04:19.958 | INFO     | app.services.scheduler:start_cron_jobs:18 - Password expiry cron job scheduled.
+2025-04-16 13:04:19.968 | INFO     | app.main:startup_event:68 - RabbitMQ connected on startup.
+2025-04-16 13:07:16.150 | INFO     | app.main:startup_event:60 - Redis connected on startup.
+2025-04-16 13:07:16.152 | INFO     | app.services.scheduler:start_cron_jobs:18 - Password expiry cron job scheduled.
+2025-04-16 13:07:16.167 | INFO     | app.main:startup_event:68 - RabbitMQ connected on startup.
+2025-04-16 13:08:41.902 | INFO     | app.main:startup_event:60 - Redis connected on startup.
+2025-04-16 13:08:41.904 | INFO     | app.services.scheduler:start_cron_jobs:18 - Password expiry cron job scheduled.
+2025-04-16 13:08:41.925 | INFO     | app.core.rabbitmq:connect:18 - [AMQP] Connected to RabbitMQ
+2025-04-16 13:08:41.926 | INFO     | app.main:startup_event:68 - RabbitMQ connected on startup.
+2025-04-16 13:08:41.927 | INFO     | app.core.rabbitmq:consume:42 - [AMQP] Consuming queue: entry_queue
+2025-04-16 13:08:44.036 | INFO     | app.core.rabbitmq:connect:18 - [AMQP] Connected to RabbitMQ
+2025-04-16 13:09:21.363 | INFO     | app.main:startup_event:60 - Redis connected on startup.
+2025-04-16 13:09:21.364 | INFO     | app.services.scheduler:start_cron_jobs:18 - Password expiry cron job scheduled.
+2025-04-16 13:09:21.377 | INFO     | app.core.rabbitmq:connect:18 - [AMQP] Connected to RabbitMQ
+2025-04-16 13:09:21.378 | INFO     | app.main:startup_event:68 - RabbitMQ connected on startup.
+2025-04-16 13:09:21.378 | INFO     | app.core.rabbitmq:consume:42 - [AMQP] Consuming queue: entry_queue
+2025-04-16 13:09:22.883 | INFO     | app.core.rabbitmq:connect:18 - [AMQP] Connected to RabbitMQ
+2025-04-16 13:09:22.884 | INFO     | app.core.rabbitmq:publish:36 - [AMQP] Published message to entry_queue
+2025-04-16 13:18:09.273 | INFO     | app.main:startup_event:60 - Redis connected on startup.
+2025-04-16 13:18:09.275 | INFO     | app.services.scheduler:start_cron_jobs:18 - Password expiry cron job scheduled.
+2025-04-16 13:18:09.293 | INFO     | app.core.rabbitmq:connect:18 - [AMQP] Connected to RabbitMQ
+2025-04-16 13:18:09.295 | INFO     | app.main:startup_event:68 - RabbitMQ connected on startup.
+2025-04-16 13:18:09.296 | INFO     | app.core.rabbitmq:consume:42 - [AMQP] Consuming queue: entry_queue
+2025-04-16 13:18:17.475 | INFO     | app.core.rabbitmq:connect:18 - [AMQP] Connected to RabbitMQ
+2025-04-16 13:18:17.503 | INFO     | app.core.rabbitmq:publish:36 - [AMQP] Published message to entry_queue
+2025-04-16 13:23:02.776 | INFO     | app.main:startup_event:60 - Redis connected on startup.
+2025-04-16 13:23:02.778 | INFO     | app.services.scheduler:start_cron_jobs:18 - Password expiry cron job scheduled.
+2025-04-16 13:23:02.808 | INFO     | app.core.rabbitmq:connect:18 - [AMQP] Connected to RabbitMQ
+2025-04-16 13:23:02.809 | INFO     | app.main:startup_event:68 - RabbitMQ connected on startup.
+2025-04-16 13:23:02.810 | INFO     | app.core.rabbitmq:consume:42 - [AMQP] Consuming queue: entry_queue
+2025-04-16 13:25:55.827 | INFO     | app.main:startup_event:60 - Redis connected on startup.
+2025-04-16 13:25:55.829 | INFO     | app.services.scheduler:start_cron_jobs:18 - Password expiry cron job scheduled.
+2025-04-16 13:25:55.846 | INFO     | app.core.rabbitmq:connect:18 - [AMQP] Connected to RabbitMQ
+2025-04-16 13:25:55.846 | INFO     | app.main:startup_event:68 - RabbitMQ connected on startup.
+2025-04-16 13:25:55.847 | INFO     | app.core.rabbitmq:consume:42 - [AMQP] Consuming queue: entry_queue
+2025-04-16 13:28:15.047 | INFO     | app.main:startup_event:60 - Redis connected on startup.
+2025-04-16 13:28:15.049 | INFO     | app.services.scheduler:start_cron_jobs:18 - Password expiry cron job scheduled.
+2025-04-16 13:28:15.073 | INFO     | app.core.rabbitmq:connect:18 - [AMQP] Connected to RabbitMQ
+2025-04-16 13:28:15.075 | INFO     | app.main:startup_event:68 - RabbitMQ connected on startup.
+2025-04-16 13:28:15.076 | INFO     | app.core.rabbitmq:consume:42 - [AMQP] Consuming queue: entry_queue
+2025-04-16 13:29:18.672 | INFO     | app.main:startup_event:60 - Redis connected on startup.
+2025-04-16 13:29:18.674 | INFO     | app.services.scheduler:start_cron_jobs:18 - Password expiry cron job scheduled.
+2025-04-16 13:29:18.705 | INFO     | app.core.rabbitmq:connect:18 - [AMQP] Connected to RabbitMQ
+2025-04-16 13:29:18.708 | INFO     | app.main:startup_event:68 - RabbitMQ connected on startup.
+2025-04-16 13:29:18.709 | INFO     | app.core.rabbitmq:consume:42 - [AMQP] Consuming queue: entry_queue
+2025-04-16 13:29:30.190 | INFO     | app.main:startup_event:60 - Redis connected on startup.
+2025-04-16 13:29:30.193 | INFO     | app.services.scheduler:start_cron_jobs:18 - Password expiry cron job scheduled.
+2025-04-16 13:29:30.203 | INFO     | app.core.rabbitmq:connect:18 - [AMQP] Connected to RabbitMQ
+2025-04-16 13:29:30.206 | INFO     | app.main:startup_event:68 - RabbitMQ connected on startup.
+2025-04-16 13:29:30.208 | INFO     | app.core.rabbitmq:consume:42 - [AMQP] Consuming queue: entry_queue
+2025-04-16 13:31:48.962 | INFO     | app.main:startup_event:60 - Redis connected on startup.
+2025-04-16 13:31:48.964 | INFO     | app.services.scheduler:start_cron_jobs:18 - Password expiry cron job scheduled.
+2025-04-16 13:31:48.975 | INFO     | app.core.rabbitmq:connect:18 - [AMQP] Connected to RabbitMQ
+2025-04-16 13:31:48.976 | INFO     | app.main:startup_event:68 - RabbitMQ connected on startup.
+2025-04-16 13:31:48.977 | INFO     | app.core.rabbitmq:consume:42 - [AMQP] Consuming queue: entry_queue
+2025-04-16 13:38:46.011 | INFO     | app.main:startup_event:60 - Redis connected on startup.
+2025-04-16 13:38:46.013 | INFO     | app.services.scheduler:start_cron_jobs:18 - Password expiry cron job scheduled.
+2025-04-16 13:38:46.036 | INFO     | app.core.rabbitmq:connect:18 - [AMQP] Connected to RabbitMQ
+2025-04-16 13:38:46.037 | INFO     | app.main:startup_event:68 - RabbitMQ connected on startup.
+2025-04-16 13:38:46.037 | INFO     | app.core.rabbitmq:consume:42 - [AMQP] Consuming queue: entry_queue
+2025-04-16 13:39:35.510 | INFO     | app.main:startup_event:60 - Redis connected on startup.
+2025-04-16 13:39:35.512 | INFO     | app.services.scheduler:start_cron_jobs:18 - Password expiry cron job scheduled.
+2025-04-16 13:39:35.528 | INFO     | app.core.rabbitmq:connect:18 - [AMQP] Connected to RabbitMQ
+2025-04-16 13:39:35.528 | INFO     | app.main:startup_event:68 - RabbitMQ connected on startup.
+2025-04-16 13:39:35.529 | INFO     | app.core.rabbitmq:consume:42 - [AMQP] Consuming queue: entry_queue
+2025-04-16 13:39:58.370 | INFO     | app.core.rabbitmq:connect:18 - [AMQP] Connected to RabbitMQ
+2025-04-16 13:39:58.372 | INFO     | app.core.rabbitmq:publish:36 - [AMQP] Published message to entry_queue
+2025-04-16 13:42:59.605 | INFO     | app.main:startup_event:60 - Redis connected on startup.
+2025-04-16 13:42:59.607 | INFO     | app.services.scheduler:start_cron_jobs:18 - Password expiry cron job scheduled.
+2025-04-16 13:42:59.622 | INFO     | app.core.rabbitmq:connect:18 - [AMQP] Connected to RabbitMQ
+2025-04-16 13:42:59.622 | INFO     | app.main:startup_event:68 - RabbitMQ connected on startup.
+2025-04-16 13:42:59.623 | INFO     | app.core.rabbitmq:consume:42 - [AMQP] Consuming queue: entry_queue
+2025-04-16 13:43:06.846 | INFO     | app.core.rabbitmq:connect:18 - [AMQP] Connected to RabbitMQ
+2025-04-16 13:43:06.847 | INFO     | app.core.rabbitmq:publish:36 - [AMQP] Published message to entry_queue
+2025-04-16 13:44:45.884 | INFO     | app.main:startup_event:60 - Redis connected on startup.
+2025-04-16 13:44:45.886 | INFO     | app.services.scheduler:start_cron_jobs:18 - Password expiry cron job scheduled.
+2025-04-16 13:44:45.902 | INFO     | app.core.rabbitmq:connect:18 - [AMQP] Connected to RabbitMQ
+2025-04-16 13:44:45.902 | INFO     | app.main:startup_event:68 - RabbitMQ connected on startup.
+2025-04-16 13:44:45.903 | INFO     | app.core.rabbitmq:consume:42 - [AMQP] Consuming queue: entry_queue
+2025-04-16 13:44:51.498 | INFO     | app.core.rabbitmq:connect:18 - [AMQP] Connected to RabbitMQ
+2025-04-16 13:44:51.500 | INFO     | app.core.rabbitmq:publish:36 - [AMQP] Published message to entry_queue
+2025-04-16 13:47:08.904 | INFO     | app.main:startup_event:60 - Redis connected on startup.
+2025-04-16 13:47:08.906 | INFO     | app.services.scheduler:start_cron_jobs:18 - Password expiry cron job scheduled.
+2025-04-16 13:47:08.924 | INFO     | app.core.rabbitmq:connect:18 - [AMQP] Connected to RabbitMQ
+2025-04-16 13:47:08.924 | INFO     | app.main:startup_event:68 - RabbitMQ connected on startup.
+2025-04-16 13:47:08.925 | INFO     | app.core.rabbitmq:consume:42 - [AMQP] Consuming queue: entry_queue
+2025-04-16 13:47:12.739 | INFO     | app.core.rabbitmq:connect:18 - [AMQP] Connected to RabbitMQ
+2025-04-16 13:47:12.740 | INFO     | app.core.rabbitmq:publish:36 - [AMQP] Published message to entry_queue
+2025-04-16 13:49:25.482 | INFO     | app.main:startup_event:60 - Redis connected on startup.
+2025-04-16 13:49:25.484 | INFO     | app.services.scheduler:start_cron_jobs:18 - Password expiry cron job scheduled.
+2025-04-16 13:49:25.506 | INFO     | app.core.rabbitmq:connect:18 - [AMQP] Connected to RabbitMQ
+2025-04-16 13:49:25.506 | INFO     | app.main:startup_event:68 - RabbitMQ connected on startup.
+2025-04-16 13:49:25.507 | INFO     | app.core.rabbitmq:consume:42 - [AMQP] Consuming queue: entry_queue
+2025-04-16 13:49:27.745 | INFO     | app.core.rabbitmq:connect:18 - [AMQP] Connected to RabbitMQ
+2025-04-16 13:49:27.746 | INFO     | app.core.rabbitmq:publish:36 - [AMQP] Published message to entry_queue
+2025-04-16 13:49:51.637 | INFO     | app.main:startup_event:60 - Redis connected on startup.
+2025-04-16 13:49:51.639 | INFO     | app.services.scheduler:start_cron_jobs:18 - Password expiry cron job scheduled.
+2025-04-16 13:49:51.646 | INFO     | app.core.rabbitmq:connect:18 - [AMQP] Connected to RabbitMQ
+2025-04-16 13:49:51.646 | INFO     | app.main:startup_event:68 - RabbitMQ connected on startup.
+2025-04-16 13:49:51.649 | INFO     | app.core.rabbitmq:consume:42 - [AMQP] Consuming queue: entry_queue
+2025-04-16 13:49:51.715 | INFO     | app.core.rabbitmq:connect:18 - [AMQP] Connected to RabbitMQ
+2025-04-16 13:49:51.716 | INFO     | app.core.rabbitmq:publish:36 - [AMQP] Published message to entry_queue
+2025-04-16 13:54:10.168 | INFO     | app.main:startup_event:60 - Redis connected on startup.
+2025-04-16 13:54:10.170 | INFO     | app.services.scheduler:start_cron_jobs:18 - Password expiry cron job scheduled.
+2025-04-16 13:54:10.187 | INFO     | app.core.rabbitmq:connect:18 - [AMQP] Connected to RabbitMQ
+2025-04-16 13:54:10.187 | INFO     | app.main:startup_event:68 - RabbitMQ connected on startup.
+2025-04-16 13:54:10.188 | INFO     | app.core.rabbitmq:consume:42 - [AMQP] Consuming queue: entry_queue
+2025-04-16 13:54:14.972 | INFO     | app.core.rabbitmq:connect:18 - [AMQP] Connected to RabbitMQ
+2025-04-16 13:54:14.975 | INFO     | app.core.rabbitmq:publish:36 - [AMQP] Published message to entry_queue
+2025-04-16 13:54:54.840 | INFO     | app.main:startup_event:60 - Redis connected on startup.
+2025-04-16 13:54:54.842 | INFO     | app.services.scheduler:start_cron_jobs:18 - Password expiry cron job scheduled.
+2025-04-16 13:54:54.852 | INFO     | app.core.rabbitmq:connect:18 - [AMQP] Connected to RabbitMQ
+2025-04-16 13:54:54.853 | INFO     | app.main:startup_event:68 - RabbitMQ connected on startup.
+2025-04-16 13:54:54.853 | INFO     | app.core.rabbitmq:consume:42 - [AMQP] Consuming queue: entry_queue
+2025-04-16 13:54:56.699 | INFO     | app.core.rabbitmq:connect:18 - [AMQP] Connected to RabbitMQ
+2025-04-16 13:54:56.701 | INFO     | app.core.rabbitmq:publish:36 - [AMQP] Published message to entry_queue
+2025-04-16 13:56:21.487 | INFO     | app.main:startup_event:60 - Redis connected on startup.
+2025-04-16 13:56:21.489 | INFO     | app.services.scheduler:start_cron_jobs:18 - Password expiry cron job scheduled.
+2025-04-16 13:56:21.509 | INFO     | app.core.rabbitmq:connect:18 - [AMQP] Connected to RabbitMQ
+2025-04-16 13:56:21.509 | INFO     | app.main:startup_event:68 - RabbitMQ connected on startup.
+2025-04-16 13:56:21.510 | INFO     | app.core.rabbitmq:consume:42 - [AMQP] Consuming queue: entry_queue
+2025-04-16 13:56:23.411 | INFO     | app.core.rabbitmq:connect:18 - [AMQP] Connected to RabbitMQ
+2025-04-16 13:56:23.414 | INFO     | app.core.rabbitmq:publish:36 - [AMQP] Published message to entry_queue
+2025-04-16 13:59:54.078 | INFO     | app.main:startup_event:60 - Redis connected on startup.
+2025-04-16 13:59:54.080 | INFO     | app.services.scheduler:start_cron_jobs:18 - Password expiry cron job scheduled.
+2025-04-16 13:59:54.094 | INFO     | app.core.rabbitmq:connect:18 - [AMQP] Connected to RabbitMQ
+2025-04-16 13:59:54.095 | INFO     | app.main:startup_event:68 - RabbitMQ connected on startup.
+2025-04-16 13:59:54.096 | INFO     | app.core.rabbitmq:consume:42 - [AMQP] Consuming queue: entry_queue
+2025-04-16 13:59:57.610 | INFO     | app.core.rabbitmq:connect:18 - [AMQP] Connected to RabbitMQ
+2025-04-16 13:59:57.612 | INFO     | app.core.rabbitmq:publish:36 - [AMQP] Published message to entry_queue
+2025-04-16 14:00:10.133 | INFO     | app.services.journal_worker:journal_entry_worker:57 - Sentiment Analysis for journal 8d06d69b-add2-4622-b44f-89f92cd44bd2: {'score': 0.2, 'magnitude': 1.2, 'comparative': 0.005, 'emotion': 'Mixed', 'positive': ['undivided attention', 'major', 'managed', 'prioritize', 'health', 'solid', 'intense', 'refreshing', 'focused', 'energized', 'learning', 'navigate', 'increasing', 'awareness', 'self-care', 'effective', 'essential', 'balancing'], 'negative': ['juggling', 'pressure', 'tight deadlines', 'overwhelmed', 'constant switching', 'burnout', 'personal issues', 'weighing', 'stress', 'burning out'], 'calculation': 'The score was derived by assigning a sentiment value to each word or phrase, with positive words contributing to a positive score and negative words contributing to a negative score. The magnitude was calculated by summing the absolute values of these sentiment scores. The comparative score was calculated by dividing the total score by the number of meaningful words. The overall emotion was determined by the balance of positive and negative sentiment in the text.'}
+2025-04-16 14:02:12.598 | INFO     | app.main:startup_event:60 - Redis connected on startup.
+2025-04-16 14:02:12.600 | INFO     | app.services.scheduler:start_cron_jobs:18 - Password expiry cron job scheduled.
+2025-04-16 14:02:12.619 | INFO     | app.core.rabbitmq:connect:18 - [AMQP] Connected to RabbitMQ
+2025-04-16 14:02:12.620 | INFO     | app.main:startup_event:68 - RabbitMQ connected on startup.
+2025-04-16 14:02:12.621 | INFO     | app.core.rabbitmq:consume:42 - [AMQP] Consuming queue: entry_queue
+2025-04-16 14:02:17.358 | INFO     | app.core.rabbitmq:connect:18 - [AMQP] Connected to RabbitMQ
+2025-04-16 14:02:17.360 | INFO     | app.core.rabbitmq:publish:36 - [AMQP] Published message to entry_queue
+2025-04-16 14:07:04.236 | INFO     | app.main:startup_event:60 - Redis connected on startup.
+2025-04-16 14:07:04.238 | INFO     | app.services.scheduler:start_cron_jobs:18 - Password expiry cron job scheduled.
+2025-04-16 14:07:04.251 | INFO     | app.core.rabbitmq:connect:18 - [AMQP] Connected to RabbitMQ
+2025-04-16 14:07:04.252 | INFO     | app.main:startup_event:68 - RabbitMQ connected on startup.
+2025-04-16 14:07:04.253 | INFO     | app.core.rabbitmq:consume:42 - [AMQP] Consuming queue: entry_queue
+2025-04-16 14:07:07.616 | INFO     | app.core.rabbitmq:connect:18 - [AMQP] Connected to RabbitMQ
+2025-04-16 14:07:07.619 | INFO     | app.core.rabbitmq:publish:36 - [AMQP] Published message to entry_queue
+2025-04-16 14:08:51.686 | INFO     | app.main:startup_event:60 - Redis connected on startup.
+2025-04-16 14:08:51.688 | INFO     | app.services.scheduler:start_cron_jobs:18 - Password expiry cron job scheduled.
+2025-04-16 14:08:51.711 | INFO     | app.core.rabbitmq:connect:18 - [AMQP] Connected to RabbitMQ
+2025-04-16 14:08:51.712 | INFO     | app.main:startup_event:68 - RabbitMQ connected on startup.
+2025-04-16 14:08:51.712 | INFO     | app.core.rabbitmq:consume:42 - [AMQP] Consuming queue: entry_queue
+2025-04-16 14:10:58.382 | INFO     | app.main:startup_event:60 - Redis connected on startup.
+2025-04-16 14:10:58.384 | INFO     | app.services.scheduler:start_cron_jobs:18 - Password expiry cron job scheduled.
+2025-04-16 14:10:58.408 | INFO     | app.core.rabbitmq:connect:18 - [AMQP] Connected to RabbitMQ
+2025-04-16 14:10:58.409 | INFO     | app.main:startup_event:68 - RabbitMQ connected on startup.
+2025-04-16 14:10:58.410 | INFO     | app.core.rabbitmq:consume:42 - [AMQP] Consuming queue: entry_queue
+2025-04-16 14:10:58.898 | INFO     | app.core.rabbitmq:connect:18 - [AMQP] Connected to RabbitMQ
+2025-04-16 14:10:58.899 | INFO     | app.core.rabbitmq:publish:36 - [AMQP] Published message to entry_queue
+2025-04-16 14:12:12.086 | INFO     | app.main:startup_event:60 - Redis connected on startup.
+2025-04-16 14:12:12.088 | INFO     | app.services.scheduler:start_cron_jobs:18 - Password expiry cron job scheduled.
+2025-04-16 14:12:12.096 | INFO     | app.core.rabbitmq:connect:18 - [AMQP] Connected to RabbitMQ
+2025-04-16 14:12:12.097 | INFO     | app.main:startup_event:68 - RabbitMQ connected on startup.
+2025-04-16 14:12:12.097 | INFO     | app.core.rabbitmq:consume:42 - [AMQP] Consuming queue: entry_queue
+2025-04-16 14:14:59.588 | INFO     | app.main:startup_event:60 - Redis connected on startup.
+2025-04-16 14:14:59.591 | INFO     | app.services.scheduler:start_cron_jobs:18 - Password expiry cron job scheduled.
+2025-04-16 14:14:59.611 | INFO     | app.core.rabbitmq:connect:18 - [AMQP] Connected to RabbitMQ
+2025-04-16 14:14:59.612 | INFO     | app.main:startup_event:68 - RabbitMQ connected on startup.
+2025-04-16 14:14:59.615 | INFO     | app.core.rabbitmq:consume:42 - [AMQP] Consuming queue: entry_queue
+2025-04-16 14:14:59.679 | INFO     | app.core.rabbitmq:connect:18 - [AMQP] Connected to RabbitMQ
+2025-04-16 14:14:59.681 | INFO     | app.core.rabbitmq:publish:36 - [AMQP] Published message to entry_queue
+2025-04-16 14:16:07.661 | INFO     | app.main:startup_event:60 - Redis connected on startup.
+2025-04-16 14:16:07.664 | INFO     | app.services.scheduler:start_cron_jobs:18 - Password expiry cron job scheduled.
+2025-04-16 14:16:07.672 | INFO     | app.core.rabbitmq:connect:18 - [AMQP] Connected to RabbitMQ
+2025-04-16 14:16:07.673 | INFO     | app.main:startup_event:68 - RabbitMQ connected on startup.
+2025-04-16 14:16:07.674 | INFO     | app.core.rabbitmq:consume:42 - [AMQP] Consuming queue: entry_queue
+2025-04-16 14:16:09.303 | INFO     | app.core.rabbitmq:connect:18 - [AMQP] Connected to RabbitMQ
+2025-04-16 14:16:09.305 | INFO     | app.core.rabbitmq:publish:36 - [AMQP] Published message to entry_queue
+2025-04-16 14:18:07.578 | INFO     | app.main:startup_event:60 - Redis connected on startup.
+2025-04-16 14:18:07.582 | INFO     | app.services.scheduler:start_cron_jobs:18 - Password expiry cron job scheduled.
+2025-04-16 14:18:07.602 | INFO     | app.core.rabbitmq:connect:18 - [AMQP] Connected to RabbitMQ
+2025-04-16 14:18:07.602 | INFO     | app.main:startup_event:68 - RabbitMQ connected on startup.
+2025-04-16 14:18:07.603 | INFO     | app.core.rabbitmq:consume:42 - [AMQP] Consuming queue: entry_queue
+2025-04-16 14:18:37.999 | INFO     | app.main:startup_event:60 - Redis connected on startup.
+2025-04-16 14:18:38.001 | INFO     | app.services.scheduler:start_cron_jobs:18 - Password expiry cron job scheduled.
+2025-04-16 14:18:38.012 | INFO     | app.core.rabbitmq:connect:18 - [AMQP] Connected to RabbitMQ
+2025-04-16 14:18:38.012 | INFO     | app.main:startup_event:68 - RabbitMQ connected on startup.
+2025-04-16 14:18:38.013 | INFO     | app.core.rabbitmq:consume:42 - [AMQP] Consuming queue: entry_queue
+2025-04-16 14:18:45.437 | INFO     | app.core.rabbitmq:connect:18 - [AMQP] Connected to RabbitMQ
+2025-04-16 14:18:45.445 | INFO     | app.core.rabbitmq:publish:36 - [AMQP] Published message to entry_queue
+2025-04-16 14:20:13.173 | INFO     | app.main:startup_event:60 - Redis connected on startup.
+2025-04-16 14:20:13.175 | INFO     | app.services.scheduler:start_cron_jobs:18 - Password expiry cron job scheduled.
+2025-04-16 14:20:13.193 | INFO     | app.core.rabbitmq:connect:18 - [AMQP] Connected to RabbitMQ
+2025-04-16 14:20:13.194 | INFO     | app.main:startup_event:68 - RabbitMQ connected on startup.
+2025-04-16 14:20:13.194 | INFO     | app.core.rabbitmq:consume:42 - [AMQP] Consuming queue: entry_queue
+2025-04-16 14:20:20.725 | INFO     | app.core.rabbitmq:connect:18 - [AMQP] Connected to RabbitMQ
+2025-04-16 14:20:20.726 | INFO     | app.core.rabbitmq:publish:36 - [AMQP] Published message to entry_queue
+2025-04-16 14:22:58.139 | INFO     | app.main:startup_event:60 - Redis connected on startup.
+2025-04-16 14:22:58.146 | INFO     | app.services.scheduler:start_cron_jobs:18 - Password expiry cron job scheduled.
+2025-04-16 14:22:58.164 | INFO     | app.core.rabbitmq:connect:18 - [AMQP] Connected to RabbitMQ
+2025-04-16 14:22:58.165 | INFO     | app.main:startup_event:68 - RabbitMQ connected on startup.
+2025-04-16 14:22:58.165 | INFO     | app.core.rabbitmq:consume:42 - [AMQP] Consuming queue: entry_queue
+2025-04-16 14:23:32.976 | INFO     | app.core.rabbitmq:connect:18 - [AMQP] Connected to RabbitMQ
+2025-04-16 14:23:32.978 | INFO     | app.core.rabbitmq:publish:36 - [AMQP] Published message to entry_queue
+2025-04-16 14:25:09.179 | INFO     | app.main:startup_event:60 - Redis connected on startup.
+2025-04-16 14:25:09.181 | INFO     | app.services.scheduler:start_cron_jobs:18 - Password expiry cron job scheduled.
+2025-04-16 14:25:09.198 | INFO     | app.core.rabbitmq:connect:18 - [AMQP] Connected to RabbitMQ
+2025-04-16 14:25:09.199 | INFO     | app.main:startup_event:68 - RabbitMQ connected on startup.
+2025-04-16 14:25:09.199 | INFO     | app.core.rabbitmq:consume:42 - [AMQP] Consuming queue: entry_queue
+2025-04-16 14:26:23.625 | INFO     | app.main:startup_event:60 - Redis connected on startup.
+2025-04-16 14:26:23.628 | INFO     | app.services.scheduler:start_cron_jobs:18 - Password expiry cron job scheduled.
+2025-04-16 14:26:23.638 | INFO     | app.core.rabbitmq:connect:18 - [AMQP] Connected to RabbitMQ
+2025-04-16 14:26:23.639 | INFO     | app.main:startup_event:68 - RabbitMQ connected on startup.
+2025-04-16 14:26:23.639 | INFO     | app.core.rabbitmq:consume:42 - [AMQP] Consuming queue: entry_queue
+2025-04-16 14:26:58.028 | INFO     | app.main:startup_event:60 - Redis connected on startup.
+2025-04-16 14:26:58.030 | INFO     | app.services.scheduler:start_cron_jobs:18 - Password expiry cron job scheduled.
+2025-04-16 14:26:58.046 | INFO     | app.core.rabbitmq:connect:18 - [AMQP] Connected to RabbitMQ
+2025-04-16 14:26:58.047 | INFO     | app.main:startup_event:68 - RabbitMQ connected on startup.
+2025-04-16 14:26:58.048 | INFO     | app.core.rabbitmq:consume:42 - [AMQP] Consuming queue: entry_queue
+2025-04-16 14:27:00.606 | INFO     | app.core.rabbitmq:connect:18 - [AMQP] Connected to RabbitMQ
+2025-04-16 14:27:00.610 | INFO     | app.core.rabbitmq:publish:36 - [AMQP] Published message to entry_queue
+2025-04-16 14:30:49.006 | INFO     | app.main:startup_event:60 - Redis connected on startup.
+2025-04-16 14:30:49.009 | INFO     | app.services.scheduler:start_cron_jobs:18 - Password expiry cron job scheduled.
+2025-04-16 14:30:52.164 | INFO     | app.core.rabbitmq:connect:18 - [AMQP] Connected to RabbitMQ
+2025-04-16 14:30:52.165 | INFO     | app.main:startup_event:68 - RabbitMQ connected on startup.
+2025-04-16 14:30:52.167 | INFO     | app.core.rabbitmq:consume:42 - [AMQP] Consuming queue: entry_queue
+2025-04-16 14:33:18.033 | INFO     | app.main:startup_event:60 - Redis connected on startup.
+2025-04-16 14:33:18.035 | INFO     | app.services.scheduler:start_cron_jobs:18 - Password expiry cron job scheduled.
+2025-04-16 14:33:18.049 | INFO     | app.core.rabbitmq:connect:18 - [AMQP] Connected to RabbitMQ
+2025-04-16 14:33:18.050 | INFO     | app.main:startup_event:68 - RabbitMQ connected on startup.
+2025-04-16 14:33:18.051 | INFO     | app.core.rabbitmq:consume:42 - [AMQP] Consuming queue: entry_queue
+2025-04-16 14:33:54.591 | INFO     | app.core.rabbitmq:connect:18 - [AMQP] Connected to RabbitMQ
+2025-04-16 14:33:54.593 | INFO     | app.core.rabbitmq:publish:36 - [AMQP] Published message to entry_queue
+2025-04-16 14:36:01.002 | INFO     | app.main:startup_event:60 - Redis connected on startup.
+2025-04-16 14:36:01.004 | INFO     | app.services.scheduler:start_cron_jobs:18 - Password expiry cron job scheduled.
+2025-04-16 14:36:01.023 | INFO     | app.core.rabbitmq:connect:18 - [AMQP] Connected to RabbitMQ
+2025-04-16 14:36:01.024 | INFO     | app.main:startup_event:68 - RabbitMQ connected on startup.
+2025-04-16 14:36:01.024 | INFO     | app.core.rabbitmq:consume:42 - [AMQP] Consuming queue: entry_queue
+2025-04-16 14:36:02.510 | INFO     | app.core.rabbitmq:connect:18 - [AMQP] Connected to RabbitMQ
+2025-04-16 14:36:02.511 | INFO     | app.core.rabbitmq:publish:36 - [AMQP] Published message to entry_queue
+2025-04-16 14:37:04.066 | INFO     | app.main:startup_event:60 - Redis connected on startup.
+2025-04-16 14:37:04.068 | INFO     | app.services.scheduler:start_cron_jobs:18 - Password expiry cron job scheduled.
+2025-04-16 14:37:04.078 | INFO     | app.core.rabbitmq:connect:18 - [AMQP] Connected to RabbitMQ
+2025-04-16 14:37:04.078 | INFO     | app.main:startup_event:68 - RabbitMQ connected on startup.
+2025-04-16 14:37:04.079 | INFO     | app.core.rabbitmq:consume:42 - [AMQP] Consuming queue: entry_queue
+2025-04-16 14:38:26.036 | INFO     | app.core.rabbitmq:connect:18 - [AMQP] Connected to RabbitMQ
+2025-04-16 14:38:26.065 | INFO     | app.core.rabbitmq:publish:36 - [AMQP] Published message to entry_queue
+2025-04-16 14:40:38.562 | INFO     | app.main:startup_event:60 - Redis connected on startup.
+2025-04-16 14:40:38.564 | INFO     | app.services.scheduler:start_cron_jobs:18 - Password expiry cron job scheduled.
+2025-04-16 14:40:38.581 | INFO     | app.core.rabbitmq:connect:18 - [AMQP] Connected to RabbitMQ
+2025-04-16 14:40:38.582 | INFO     | app.main:startup_event:68 - RabbitMQ connected on startup.
+2025-04-16 14:40:38.582 | INFO     | app.core.rabbitmq:consume:42 - [AMQP] Consuming queue: entry_queue
+2025-04-16 14:41:09.507 | INFO     | app.main:startup_event:60 - Redis connected on startup.
+2025-04-16 14:41:09.509 | INFO     | app.services.scheduler:start_cron_jobs:18 - Password expiry cron job scheduled.
+2025-04-16 14:41:09.515 | INFO     | app.core.rabbitmq:connect:18 - [AMQP] Connected to RabbitMQ
+2025-04-16 14:41:09.515 | INFO     | app.main:startup_event:68 - RabbitMQ connected on startup.
+2025-04-16 14:41:09.516 | INFO     | app.core.rabbitmq:consume:42 - [AMQP] Consuming queue: entry_queue
+2025-04-16 14:41:15.830 | INFO     | app.core.rabbitmq:connect:18 - [AMQP] Connected to RabbitMQ
+2025-04-16 14:41:15.831 | INFO     | app.core.rabbitmq:publish:36 - [AMQP] Published message to entry_queue
+2025-04-16 14:41:39.243 | INFO     | app.main:startup_event:60 - Redis connected on startup.
+2025-04-16 14:41:39.245 | INFO     | app.services.scheduler:start_cron_jobs:18 - Password expiry cron job scheduled.
+2025-04-16 14:41:39.253 | INFO     | app.core.rabbitmq:connect:18 - [AMQP] Connected to RabbitMQ
+2025-04-16 14:41:39.254 | INFO     | app.main:startup_event:68 - RabbitMQ connected on startup.
+2025-04-16 14:41:39.255 | INFO     | app.core.rabbitmq:consume:42 - [AMQP] Consuming queue: entry_queue
+2025-04-16 14:43:51.361 | INFO     | app.main:startup_event:60 - Redis connected on startup.
+2025-04-16 14:43:51.363 | INFO     | app.services.scheduler:start_cron_jobs:18 - Password expiry cron job scheduled.
+2025-04-16 14:43:51.375 | INFO     | app.core.rabbitmq:connect:18 - [AMQP] Connected to RabbitMQ
+2025-04-16 14:43:51.376 | INFO     | app.main:startup_event:68 - RabbitMQ connected on startup.
+2025-04-16 14:43:51.376 | INFO     | app.core.rabbitmq:consume:42 - [AMQP] Consuming queue: entry_queue
+2025-04-16 14:44:32.936 | INFO     | app.main:startup_event:60 - Redis connected on startup.
+2025-04-16 14:44:32.937 | INFO     | app.services.scheduler:start_cron_jobs:18 - Password expiry cron job scheduled.
+2025-04-16 14:44:32.948 | INFO     | app.core.rabbitmq:connect:18 - [AMQP] Connected to RabbitMQ
+2025-04-16 14:44:32.949 | INFO     | app.main:startup_event:68 - RabbitMQ connected on startup.
+2025-04-16 14:44:32.950 | INFO     | app.core.rabbitmq:consume:42 - [AMQP] Consuming queue: entry_queue
+2025-04-16 14:49:02.524 | INFO     | app.main:startup_event:60 - Redis connected on startup.
+2025-04-16 14:49:02.526 | INFO     | app.services.scheduler:start_cron_jobs:18 - Password expiry cron job scheduled.
+2025-04-16 14:49:02.552 | INFO     | app.core.rabbitmq:connect:18 - [AMQP] Connected to RabbitMQ
+2025-04-16 14:49:02.553 | INFO     | app.main:startup_event:68 - RabbitMQ connected on startup.
+2025-04-16 14:49:02.554 | INFO     | app.core.rabbitmq:consume:42 - [AMQP] Consuming queue: entry_queue
+2025-04-16 14:49:21.369 | INFO     | app.core.rabbitmq:connect:18 - [AMQP] Connected to RabbitMQ
+2025-04-16 14:49:21.371 | INFO     | app.core.rabbitmq:publish:36 - [AMQP] Published message to entry_queue
+2025-04-16 14:51:10.517 | INFO     | app.main:startup_event:60 - Redis connected on startup.
+2025-04-16 14:51:10.519 | INFO     | app.services.scheduler:start_cron_jobs:18 - Password expiry cron job scheduled.
+2025-04-16 14:51:10.536 | INFO     | app.core.rabbitmq:connect:18 - [AMQP] Connected to RabbitMQ
+2025-04-16 14:51:10.536 | INFO     | app.main:startup_event:68 - RabbitMQ connected on startup.
+2025-04-16 14:51:10.537 | INFO     | app.core.rabbitmq:consume:42 - [AMQP] Consuming queue: entry_queue
+2025-04-16 14:51:16.056 | INFO     | app.core.rabbitmq:connect:18 - [AMQP] Connected to RabbitMQ
+2025-04-16 14:51:16.062 | INFO     | app.core.rabbitmq:publish:36 - [AMQP] Published message to entry_queue
+2025-04-16 14:53:22.510 | INFO     | app.main:startup_event:60 - Redis connected on startup.
+2025-04-16 14:53:22.512 | INFO     | app.services.scheduler:start_cron_jobs:18 - Password expiry cron job scheduled.
+2025-04-16 14:53:22.538 | INFO     | app.core.rabbitmq:connect:18 - [AMQP] Connected to RabbitMQ
+2025-04-16 14:53:22.539 | INFO     | app.main:startup_event:68 - RabbitMQ connected on startup.
+2025-04-16 14:53:22.540 | INFO     | app.core.rabbitmq:consume:42 - [AMQP] Consuming queue: entry_queue
+2025-04-16 14:53:28.505 | INFO     | app.core.rabbitmq:connect:18 - [AMQP] Connected to RabbitMQ
+2025-04-16 14:53:28.514 | INFO     | app.core.rabbitmq:publish:36 - [AMQP] Published message to entry_queue
+2025-04-16 14:55:35.997 | INFO     | app.main:startup_event:60 - Redis connected on startup.
+2025-04-16 14:55:36.000 | INFO     | app.services.scheduler:start_cron_jobs:18 - Password expiry cron job scheduled.
+2025-04-16 14:55:36.014 | INFO     | app.core.rabbitmq:connect:18 - [AMQP] Connected to RabbitMQ
+2025-04-16 14:55:36.016 | INFO     | app.main:startup_event:68 - RabbitMQ connected on startup.
+2025-04-16 14:55:36.021 | INFO     | app.core.rabbitmq:consume:42 - [AMQP] Consuming queue: entry_queue
+2025-04-16 14:56:29.339 | INFO     | app.main:startup_event:60 - Redis connected on startup.
+2025-04-16 14:56:29.341 | INFO     | app.services.scheduler:start_cron_jobs:18 - Password expiry cron job scheduled.
+2025-04-16 14:56:29.349 | INFO     | app.core.rabbitmq:connect:18 - [AMQP] Connected to RabbitMQ
+2025-04-16 14:56:29.350 | INFO     | app.main:startup_event:68 - RabbitMQ connected on startup.
+2025-04-16 14:56:29.353 | INFO     | app.core.rabbitmq:consume:42 - [AMQP] Consuming queue: entry_queue
+2025-04-16 14:57:10.042 | INFO     | app.main:startup_event:60 - Redis connected on startup.
+2025-04-16 14:57:10.044 | INFO     | app.services.scheduler:start_cron_jobs:18 - Password expiry cron job scheduled.
+2025-04-16 14:57:10.064 | INFO     | app.core.rabbitmq:connect:18 - [AMQP] Connected to RabbitMQ
+2025-04-16 14:57:10.065 | INFO     | app.main:startup_event:68 - RabbitMQ connected on startup.
+2025-04-16 14:57:10.068 | INFO     | app.core.rabbitmq:consume:42 - [AMQP] Consuming queue: entry_queue
+2025-04-16 14:57:10.153 | INFO     | app.core.rabbitmq:connect:18 - [AMQP] Connected to RabbitMQ
+2025-04-16 14:57:10.154 | INFO     | app.core.rabbitmq:publish:36 - [AMQP] Published message to entry_queue
+2025-04-16 14:57:32.382 | INFO     | app.main:startup_event:60 - Redis connected on startup.
+2025-04-16 14:57:32.383 | INFO     | app.services.scheduler:start_cron_jobs:18 - Password expiry cron job scheduled.
+2025-04-16 14:57:32.393 | INFO     | app.core.rabbitmq:connect:18 - [AMQP] Connected to RabbitMQ
+2025-04-16 14:57:32.395 | INFO     | app.main:startup_event:68 - RabbitMQ connected on startup.
+2025-04-16 14:57:32.395 | INFO     | app.core.rabbitmq:consume:42 - [AMQP] Consuming queue: entry_queue
+2025-04-16 14:57:35.644 | INFO     | app.core.rabbitmq:connect:18 - [AMQP] Connected to RabbitMQ
+2025-04-16 14:57:35.645 | INFO     | app.core.rabbitmq:publish:36 - [AMQP] Published message to entry_queue
+2025-04-16 14:58:07.808 | INFO     | app.main:startup_event:60 - Redis connected on startup.
+2025-04-16 14:58:07.810 | INFO     | app.services.scheduler:start_cron_jobs:18 - Password expiry cron job scheduled.
+2025-04-16 14:58:07.820 | INFO     | app.core.rabbitmq:connect:18 - [AMQP] Connected to RabbitMQ
+2025-04-16 14:58:07.821 | INFO     | app.main:startup_event:68 - RabbitMQ connected on startup.
+2025-04-16 14:58:07.821 | INFO     | app.core.rabbitmq:consume:42 - [AMQP] Consuming queue: entry_queue
+2025-04-16 14:59:48.561 | INFO     | app.main:startup_event:60 - Redis connected on startup.
+2025-04-16 14:59:48.562 | INFO     | app.services.scheduler:start_cron_jobs:18 - Password expiry cron job scheduled.
+2025-04-16 14:59:48.579 | INFO     | app.core.rabbitmq:connect:18 - [AMQP] Connected to RabbitMQ
+2025-04-16 14:59:48.580 | INFO     | app.main:startup_event:68 - RabbitMQ connected on startup.
+2025-04-16 14:59:48.580 | INFO     | app.core.rabbitmq:consume:42 - [AMQP] Consuming queue: entry_queue
+2025-04-16 15:01:19.258 | INFO     | app.main:startup_event:60 - Redis connected on startup.
+2025-04-16 15:01:19.260 | INFO     | app.services.scheduler:start_cron_jobs:18 - Password expiry cron job scheduled.
+2025-04-16 15:01:19.273 | INFO     | app.core.rabbitmq:connect:18 - [AMQP] Connected to RabbitMQ
+2025-04-16 15:01:19.274 | INFO     | app.main:startup_event:68 - RabbitMQ connected on startup.
+2025-04-16 15:01:19.277 | INFO     | app.core.rabbitmq:consume:42 - [AMQP] Consuming queue: entry_queue
+2025-04-16 15:02:33.969 | INFO     | app.main:startup_event:60 - Redis connected on startup.
+2025-04-16 15:02:33.971 | INFO     | app.services.scheduler:start_cron_jobs:18 - Password expiry cron job scheduled.
+2025-04-16 15:02:33.980 | INFO     | app.core.rabbitmq:connect:18 - [AMQP] Connected to RabbitMQ
+2025-04-16 15:02:33.981 | INFO     | app.main:startup_event:68 - RabbitMQ connected on startup.
+2025-04-16 15:02:33.984 | INFO     | app.core.rabbitmq:consume:42 - [AMQP] Consuming queue: entry_queue
+2025-04-16 15:02:46.110 | INFO     | app.main:startup_event:60 - Redis connected on startup.
+2025-04-16 15:02:46.112 | INFO     | app.services.scheduler:start_cron_jobs:18 - Password expiry cron job scheduled.
+2025-04-16 15:02:46.129 | INFO     | app.core.rabbitmq:connect:18 - [AMQP] Connected to RabbitMQ
+2025-04-16 15:02:46.129 | INFO     | app.main:startup_event:68 - RabbitMQ connected on startup.
+2025-04-16 15:02:46.130 | INFO     | app.core.rabbitmq:consume:42 - [AMQP] Consuming queue: entry_queue
+2025-04-16 15:03:09.261 | INFO     | app.main:startup_event:60 - Redis connected on startup.
+2025-04-16 15:03:09.263 | INFO     | app.services.scheduler:start_cron_jobs:18 - Password expiry cron job scheduled.
+2025-04-16 15:03:09.272 | INFO     | app.core.rabbitmq:connect:18 - [AMQP] Connected to RabbitMQ
+2025-04-16 15:03:09.273 | INFO     | app.main:startup_event:68 - RabbitMQ connected on startup.
+2025-04-16 15:03:09.273 | INFO     | app.core.rabbitmq:consume:42 - [AMQP] Consuming queue: entry_queue
+2025-04-16 15:04:34.215 | INFO     | app.main:startup_event:60 - Redis connected on startup.
+2025-04-16 15:04:34.217 | INFO     | app.services.scheduler:start_cron_jobs:18 - Password expiry cron job scheduled.
+2025-04-16 15:04:34.233 | INFO     | app.core.rabbitmq:connect:18 - [AMQP] Connected to RabbitMQ
+2025-04-16 15:04:34.234 | INFO     | app.main:startup_event:68 - RabbitMQ connected on startup.
+2025-04-16 15:04:34.237 | INFO     | app.core.rabbitmq:consume:42 - [AMQP] Consuming queue: entry_queue
+2025-04-16 15:04:52.128 | INFO     | app.main:startup_event:60 - Redis connected on startup.
+2025-04-16 15:04:52.130 | INFO     | app.services.scheduler:start_cron_jobs:18 - Password expiry cron job scheduled.
+2025-04-16 15:04:52.138 | INFO     | app.core.rabbitmq:connect:18 - [AMQP] Connected to RabbitMQ
+2025-04-16 15:04:52.139 | INFO     | app.main:startup_event:68 - RabbitMQ connected on startup.
+2025-04-16 15:04:52.141 | INFO     | app.core.rabbitmq:consume:42 - [AMQP] Consuming queue: entry_queue
+2025-04-16 15:05:08.783 | INFO     | app.main:startup_event:60 - Redis connected on startup.
+2025-04-16 15:05:08.785 | INFO     | app.services.scheduler:start_cron_jobs:18 - Password expiry cron job scheduled.
+2025-04-16 15:05:08.793 | INFO     | app.core.rabbitmq:connect:18 - [AMQP] Connected to RabbitMQ
+2025-04-16 15:05:08.794 | INFO     | app.main:startup_event:68 - RabbitMQ connected on startup.
+2025-04-16 15:05:08.797 | INFO     | app.core.rabbitmq:consume:42 - [AMQP] Consuming queue: entry_queue
+2025-04-16 15:08:43.745 | INFO     | app.main:startup_event:60 - Redis connected on startup.
+2025-04-16 15:08:43.747 | INFO     | app.services.scheduler:start_cron_jobs:18 - Password expiry cron job scheduled.
+2025-04-16 15:08:43.768 | INFO     | app.core.rabbitmq:connect:18 - [AMQP] Connected to RabbitMQ
+2025-04-16 15:08:43.768 | INFO     | app.main:startup_event:68 - RabbitMQ connected on startup.
+2025-04-16 15:08:43.771 | INFO     | app.core.rabbitmq:consume:42 - [AMQP] Consuming queue: entry_queue
+2025-04-16 15:09:18.583 | INFO     | app.main:startup_event:60 - Redis connected on startup.
+2025-04-16 15:09:18.585 | INFO     | app.services.scheduler:start_cron_jobs:18 - Password expiry cron job scheduled.
+2025-04-16 15:09:18.594 | INFO     | app.core.rabbitmq:connect:18 - [AMQP] Connected to RabbitMQ
+2025-04-16 15:09:18.594 | INFO     | app.main:startup_event:68 - RabbitMQ connected on startup.
+2025-04-16 15:09:18.597 | INFO     | app.core.rabbitmq:consume:42 - [AMQP] Consuming queue: entry_queue
+2025-04-16 15:10:14.871 | INFO     | app.main:startup_event:60 - Redis connected on startup.
+2025-04-16 15:10:14.873 | INFO     | app.services.scheduler:start_cron_jobs:18 - Password expiry cron job scheduled.
+2025-04-16 15:10:14.893 | INFO     | app.core.rabbitmq:connect:18 - [AMQP] Connected to RabbitMQ
+2025-04-16 15:10:14.894 | INFO     | app.main:startup_event:68 - RabbitMQ connected on startup.
+2025-04-16 15:10:14.897 | INFO     | app.core.rabbitmq:consume:42 - [AMQP] Consuming queue: entry_queue
+2025-04-16 15:11:09.016 | INFO     | app.main:startup_event:60 - Redis connected on startup.
+2025-04-16 15:11:09.018 | INFO     | app.services.scheduler:start_cron_jobs:18 - Password expiry cron job scheduled.
+2025-04-16 15:11:09.029 | INFO     | app.core.rabbitmq:connect:18 - [AMQP] Connected to RabbitMQ
+2025-04-16 15:11:09.029 | INFO     | app.main:startup_event:68 - RabbitMQ connected on startup.
+2025-04-16 15:11:09.030 | INFO     | app.core.rabbitmq:consume:42 - [AMQP] Consuming queue: entry_queue
+2025-04-16 15:11:32.505 | INFO     | app.main:startup_event:60 - Redis connected on startup.
+2025-04-16 15:11:32.507 | INFO     | app.services.scheduler:start_cron_jobs:18 - Password expiry cron job scheduled.
+2025-04-16 15:11:32.532 | INFO     | app.core.rabbitmq:connect:18 - [AMQP] Connected to RabbitMQ
+2025-04-16 15:11:32.533 | INFO     | app.main:startup_event:68 - RabbitMQ connected on startup.
+2025-04-16 15:11:32.536 | INFO     | app.core.rabbitmq:consume:42 - [AMQP] Consuming queue: entry_queue
+2025-04-16 15:12:19.395 | INFO     | app.main:startup_event:60 - Redis connected on startup.
+2025-04-16 15:12:19.398 | INFO     | app.services.scheduler:start_cron_jobs:18 - Password expiry cron job scheduled.
+2025-04-16 15:12:19.408 | INFO     | app.core.rabbitmq:connect:18 - [AMQP] Connected to RabbitMQ
+2025-04-16 15:12:19.408 | INFO     | app.main:startup_event:68 - RabbitMQ connected on startup.
+2025-04-16 15:12:19.411 | INFO     | app.core.rabbitmq:consume:42 - [AMQP] Consuming queue: entry_queue
+2025-04-16 15:14:37.892 | INFO     | app.main:startup_event:60 - Redis connected on startup.
+2025-04-16 15:14:37.894 | INFO     | app.services.scheduler:start_cron_jobs:18 - Password expiry cron job scheduled.
+2025-04-16 15:14:37.914 | INFO     | app.core.rabbitmq:connect:18 - [AMQP] Connected to RabbitMQ
+2025-04-16 15:14:37.914 | INFO     | app.main:startup_event:68 - RabbitMQ connected on startup.
+2025-04-16 15:14:37.915 | INFO     | app.core.rabbitmq:consume:42 - [AMQP] Consuming queue: entry_queue
+2025-04-16 15:16:05.412 | INFO     | app.main:startup_event:60 - Redis connected on startup.
+2025-04-16 15:16:05.414 | INFO     | app.services.scheduler:start_cron_jobs:18 - Password expiry cron job scheduled.
+2025-04-16 15:16:05.436 | INFO     | app.core.rabbitmq:connect:18 - [AMQP] Connected to RabbitMQ
+2025-04-16 15:16:05.437 | INFO     | app.main:startup_event:68 - RabbitMQ connected on startup.
+2025-04-16 15:16:05.438 | INFO     | app.core.rabbitmq:consume:42 - [AMQP] Consuming queue: entry_queue
+2025-04-16 15:16:43.554 | INFO     | app.main:startup_event:60 - Redis connected on startup.
+2025-04-16 15:16:43.556 | INFO     | app.services.scheduler:start_cron_jobs:18 - Password expiry cron job scheduled.
+2025-04-16 15:16:43.566 | INFO     | app.core.rabbitmq:connect:18 - [AMQP] Connected to RabbitMQ
+2025-04-16 15:16:43.567 | INFO     | app.main:startup_event:68 - RabbitMQ connected on startup.
+2025-04-16 15:16:43.567 | INFO     | app.core.rabbitmq:consume:42 - [AMQP] Consuming queue: entry_queue
+2025-04-16 15:18:12.075 | INFO     | app.main:startup_event:60 - Redis connected on startup.
+2025-04-16 15:18:12.077 | INFO     | app.services.scheduler:start_cron_jobs:18 - Password expiry cron job scheduled.
+2025-04-16 15:18:12.101 | INFO     | app.core.rabbitmq:connect:18 - [AMQP] Connected to RabbitMQ
+2025-04-16 15:18:12.101 | INFO     | app.main:startup_event:68 - RabbitMQ connected on startup.
+2025-04-16 15:18:12.102 | INFO     | app.core.rabbitmq:consume:42 - [AMQP] Consuming queue: entry_queue
+2025-04-16 15:19:44.642 | INFO     | app.main:startup_event:60 - Redis connected on startup.
+2025-04-16 15:19:44.644 | INFO     | app.services.scheduler:start_cron_jobs:18 - Password expiry cron job scheduled.
+2025-04-16 15:19:44.658 | INFO     | app.core.rabbitmq:connect:18 - [AMQP] Connected to RabbitMQ
+2025-04-16 15:19:44.659 | INFO     | app.main:startup_event:68 - RabbitMQ connected on startup.
+2025-04-16 15:19:44.662 | INFO     | app.core.rabbitmq:consume:42 - [AMQP] Consuming queue: entry_queue
+2025-04-16 15:20:55.452 | INFO     | app.main:startup_event:60 - Redis connected on startup.
+2025-04-16 15:20:55.454 | INFO     | app.services.scheduler:start_cron_jobs:18 - Password expiry cron job scheduled.
+2025-04-16 15:20:55.465 | INFO     | app.core.rabbitmq:connect:18 - [AMQP] Connected to RabbitMQ
+2025-04-16 15:20:55.466 | INFO     | app.main:startup_event:68 - RabbitMQ connected on startup.
+2025-04-16 15:20:55.469 | INFO     | app.core.rabbitmq:consume:42 - [AMQP] Consuming queue: entry_queue
+2025-04-16 15:21:34.091 | INFO     | app.main:startup_event:60 - Redis connected on startup.
+2025-04-16 15:21:34.092 | INFO     | app.services.scheduler:start_cron_jobs:18 - Password expiry cron job scheduled.
+2025-04-16 15:21:34.108 | INFO     | app.core.rabbitmq:connect:18 - [AMQP] Connected to RabbitMQ
+2025-04-16 15:21:34.109 | INFO     | app.main:startup_event:68 - RabbitMQ connected on startup.
+2025-04-16 15:21:34.112 | INFO     | app.core.rabbitmq:consume:42 - [AMQP] Consuming queue: entry_queue
+2025-04-16 15:22:45.767 | INFO     | app.main:startup_event:60 - Redis connected on startup.
+2025-04-16 15:22:45.769 | INFO     | app.services.scheduler:start_cron_jobs:18 - Password expiry cron job scheduled.
+2025-04-16 15:22:45.779 | INFO     | app.core.rabbitmq:connect:18 - [AMQP] Connected to RabbitMQ
+2025-04-16 15:22:45.779 | INFO     | app.main:startup_event:68 - RabbitMQ connected on startup.
+2025-04-16 15:22:45.780 | INFO     | app.core.rabbitmq:consume:42 - [AMQP] Consuming queue: entry_queue
+2025-04-16 15:22:52.976 | INFO     | app.main:startup_event:60 - Redis connected on startup.
+2025-04-16 15:22:52.977 | INFO     | app.services.scheduler:start_cron_jobs:18 - Password expiry cron job scheduled.
+2025-04-16 15:22:52.992 | INFO     | app.core.rabbitmq:connect:18 - [AMQP] Connected to RabbitMQ
+2025-04-16 15:22:52.993 | INFO     | app.main:startup_event:68 - RabbitMQ connected on startup.
+2025-04-16 15:22:52.994 | INFO     | app.core.rabbitmq:consume:42 - [AMQP] Consuming queue: entry_queue
+2025-04-16 15:24:08.142 | INFO     | app.main:startup_event:60 - Redis connected on startup.
+2025-04-16 15:24:08.144 | INFO     | app.services.scheduler:start_cron_jobs:18 - Password expiry cron job scheduled.
+2025-04-16 15:24:08.151 | INFO     | app.core.rabbitmq:connect:18 - [AMQP] Connected to RabbitMQ
+2025-04-16 15:24:08.151 | INFO     | app.main:startup_event:68 - RabbitMQ connected on startup.
+2025-04-16 15:24:08.154 | INFO     | app.core.rabbitmq:consume:42 - [AMQP] Consuming queue: entry_queue
+2025-04-16 15:25:07.931 | INFO     | app.main:startup_event:60 - Redis connected on startup.
+2025-04-16 15:25:07.933 | INFO     | app.services.scheduler:start_cron_jobs:18 - Password expiry cron job scheduled.
+2025-04-16 15:25:07.951 | INFO     | app.core.rabbitmq:connect:18 - [AMQP] Connected to RabbitMQ
+2025-04-16 15:25:07.951 | INFO     | app.main:startup_event:68 - RabbitMQ connected on startup.
+2025-04-16 15:25:07.954 | INFO     | app.core.rabbitmq:consume:42 - [AMQP] Consuming queue: entry_queue
+2025-04-16 15:27:44.281 | INFO     | app.main:startup_event:60 - Redis connected on startup.
+2025-04-16 15:27:44.282 | INFO     | app.services.scheduler:start_cron_jobs:18 - Password expiry cron job scheduled.
+2025-04-16 15:27:44.298 | INFO     | app.core.rabbitmq:connect:18 - [AMQP] Connected to RabbitMQ
+2025-04-16 15:27:44.299 | INFO     | app.main:startup_event:68 - RabbitMQ connected on startup.
+2025-04-16 15:27:44.300 | INFO     | app.core.rabbitmq:consume:42 - [AMQP] Consuming queue: entry_queue
+2025-04-16 15:27:54.380 | INFO     | app.main:startup_event:60 - Redis connected on startup.
+2025-04-16 15:27:54.381 | INFO     | app.services.scheduler:start_cron_jobs:18 - Password expiry cron job scheduled.
+2025-04-16 15:27:54.388 | INFO     | app.core.rabbitmq:connect:18 - [AMQP] Connected to RabbitMQ
+2025-04-16 15:27:54.389 | INFO     | app.main:startup_event:68 - RabbitMQ connected on startup.
+2025-04-16 15:27:54.390 | INFO     | app.core.rabbitmq:consume:42 - [AMQP] Consuming queue: entry_queue
+2025-04-16 15:29:16.115 | INFO     | app.main:startup_event:60 - Redis connected on startup.
+2025-04-16 15:29:16.117 | INFO     | app.services.scheduler:start_cron_jobs:18 - Password expiry cron job scheduled.
+2025-04-16 15:29:16.136 | INFO     | app.core.rabbitmq:connect:18 - [AMQP] Connected to RabbitMQ
+2025-04-16 15:29:16.137 | INFO     | app.main:startup_event:68 - RabbitMQ connected on startup.
+2025-04-16 15:29:16.137 | INFO     | app.core.rabbitmq:consume:42 - [AMQP] Consuming queue: entry_queue
+2025-04-16 15:30:30.615 | INFO     | app.main:startup_event:60 - Redis connected on startup.
+2025-04-16 15:30:30.617 | INFO     | app.services.scheduler:start_cron_jobs:18 - Password expiry cron job scheduled.
+2025-04-16 15:30:30.625 | INFO     | app.core.rabbitmq:connect:18 - [AMQP] Connected to RabbitMQ
+2025-04-16 15:30:30.625 | INFO     | app.main:startup_event:68 - RabbitMQ connected on startup.
+2025-04-16 15:30:30.626 | INFO     | app.core.rabbitmq:consume:42 - [AMQP] Consuming queue: entry_queue
+2025-04-16 15:31:41.367 | INFO     | app.main:startup_event:60 - Redis connected on startup.
+2025-04-16 15:31:41.368 | INFO     | app.services.scheduler:start_cron_jobs:18 - Password expiry cron job scheduled.
+2025-04-16 15:31:41.392 | INFO     | app.core.rabbitmq:connect:18 - [AMQP] Connected to RabbitMQ
+2025-04-16 15:31:41.393 | INFO     | app.main:startup_event:68 - RabbitMQ connected on startup.
+2025-04-16 15:31:41.394 | INFO     | app.core.rabbitmq:consume:42 - [AMQP] Consuming queue: entry_queue
+2025-04-16 15:32:14.443 | INFO     | app.main:startup_event:60 - Redis connected on startup.
+2025-04-16 15:32:14.445 | INFO     | app.services.scheduler:start_cron_jobs:18 - Password expiry cron job scheduled.
+2025-04-16 15:32:14.459 | INFO     | app.core.rabbitmq:connect:18 - [AMQP] Connected to RabbitMQ
+2025-04-16 15:32:14.460 | INFO     | app.main:startup_event:68 - RabbitMQ connected on startup.
+2025-04-16 15:32:14.463 | INFO     | app.core.rabbitmq:consume:42 - [AMQP] Consuming queue: entry_queue
+2025-04-16 15:34:00.010 | INFO     | app.main:startup_event:60 - Redis connected on startup.
+2025-04-16 15:34:00.012 | INFO     | app.services.scheduler:start_cron_jobs:18 - Password expiry cron job scheduled.
+2025-04-16 15:34:00.028 | INFO     | app.core.rabbitmq:connect:18 - [AMQP] Connected to RabbitMQ
+2025-04-16 15:34:00.029 | INFO     | app.main:startup_event:68 - RabbitMQ connected on startup.
+2025-04-16 15:34:00.029 | INFO     | app.core.rabbitmq:consume:42 - [AMQP] Consuming queue: entry_queue
+2025-04-16 15:35:47.163 | INFO     | app.main:startup_event:60 - Redis connected on startup.
+2025-04-16 15:35:47.165 | INFO     | app.services.scheduler:start_cron_jobs:18 - Password expiry cron job scheduled.
+2025-04-16 15:35:47.198 | INFO     | app.core.rabbitmq:connect:18 - [AMQP] Connected to RabbitMQ
+2025-04-16 15:35:47.200 | INFO     | app.main:startup_event:68 - RabbitMQ connected on startup.
+2025-04-16 15:35:47.201 | INFO     | app.core.rabbitmq:consume:42 - [AMQP] Consuming queue: entry_queue
+2025-04-16 15:36:12.168 | INFO     | app.main:startup_event:60 - Redis connected on startup.
+2025-04-16 15:36:12.170 | INFO     | app.services.scheduler:start_cron_jobs:18 - Password expiry cron job scheduled.
+2025-04-16 15:36:12.178 | INFO     | app.core.rabbitmq:connect:18 - [AMQP] Connected to RabbitMQ
+2025-04-16 15:36:12.178 | INFO     | app.main:startup_event:68 - RabbitMQ connected on startup.
+2025-04-16 15:36:12.181 | INFO     | app.core.rabbitmq:consume:42 - [AMQP] Consuming queue: entry_queue
+2025-04-16 15:38:37.108 | INFO     | app.main:startup_event:60 - Redis connected on startup.
+2025-04-16 15:38:37.109 | INFO     | app.services.scheduler:start_cron_jobs:18 - Password expiry cron job scheduled.
+2025-04-16 15:38:37.127 | INFO     | app.core.rabbitmq:connect:18 - [AMQP] Connected to RabbitMQ
+2025-04-16 15:38:37.127 | INFO     | app.main:startup_event:68 - RabbitMQ connected on startup.
+2025-04-16 15:38:37.130 | INFO     | app.core.rabbitmq:consume:42 - [AMQP] Consuming queue: entry_queue
+2025-04-16 15:39:13.186 | INFO     | app.main:startup_event:60 - Redis connected on startup.
+2025-04-16 15:39:13.188 | INFO     | app.services.scheduler:start_cron_jobs:18 - Password expiry cron job scheduled.
+2025-04-16 15:39:13.196 | INFO     | app.core.rabbitmq:connect:18 - [AMQP] Connected to RabbitMQ
+2025-04-16 15:39:13.196 | INFO     | app.main:startup_event:68 - RabbitMQ connected on startup.
+2025-04-16 15:39:13.200 | INFO     | app.core.rabbitmq:consume:42 - [AMQP] Consuming queue: entry_queue
+2025-04-16 15:40:35.999 | INFO     | app.main:startup_event:60 - Redis connected on startup.
+2025-04-16 15:40:36.001 | INFO     | app.services.scheduler:start_cron_jobs:18 - Password expiry cron job scheduled.
+2025-04-16 15:40:36.017 | INFO     | app.core.rabbitmq:connect:18 - [AMQP] Connected to RabbitMQ
+2025-04-16 15:40:36.019 | INFO     | app.main:startup_event:68 - RabbitMQ connected on startup.
+2025-04-16 15:40:36.020 | INFO     | app.core.rabbitmq:consume:42 - [AMQP] Consuming queue: entry_queue
+2025-04-16 15:41:37.028 | INFO     | app.main:startup_event:60 - Redis connected on startup.
+2025-04-16 15:41:37.029 | INFO     | app.services.scheduler:start_cron_jobs:18 - Password expiry cron job scheduled.
+2025-04-16 15:41:37.040 | INFO     | app.core.rabbitmq:connect:18 - [AMQP] Connected to RabbitMQ
+2025-04-16 15:41:37.041 | INFO     | app.main:startup_event:68 - RabbitMQ connected on startup.
+2025-04-16 15:41:37.043 | INFO     | app.core.rabbitmq:consume:42 - [AMQP] Consuming queue: entry_queue
+2025-04-16 15:42:11.770 | INFO     | app.main:startup_event:60 - Redis connected on startup.
+2025-04-16 15:42:11.772 | INFO     | app.services.scheduler:start_cron_jobs:18 - Password expiry cron job scheduled.
+2025-04-16 15:42:11.787 | INFO     | app.core.rabbitmq:connect:18 - [AMQP] Connected to RabbitMQ
+2025-04-16 15:42:11.788 | INFO     | app.main:startup_event:68 - RabbitMQ connected on startup.
+2025-04-16 15:42:11.788 | INFO     | app.core.rabbitmq:consume:42 - [AMQP] Consuming queue: entry_queue
+2025-04-16 15:43:15.480 | INFO     | app.main:startup_event:60 - Redis connected on startup.
+2025-04-16 15:43:15.482 | INFO     | app.services.scheduler:start_cron_jobs:18 - Password expiry cron job scheduled.
+2025-04-16 15:43:15.490 | INFO     | app.core.rabbitmq:connect:18 - [AMQP] Connected to RabbitMQ
+2025-04-16 15:43:15.491 | INFO     | app.main:startup_event:68 - RabbitMQ connected on startup.
+2025-04-16 15:43:15.493 | INFO     | app.core.rabbitmq:consume:42 - [AMQP] Consuming queue: entry_queue
+2025-04-16 15:44:13.752 | INFO     | app.main:startup_event:60 - Redis connected on startup.
+2025-04-16 15:44:13.754 | INFO     | app.services.scheduler:start_cron_jobs:18 - Password expiry cron job scheduled.
+2025-04-16 15:44:13.771 | INFO     | app.core.rabbitmq:connect:18 - [AMQP] Connected to RabbitMQ
+2025-04-16 15:44:13.771 | INFO     | app.main:startup_event:68 - RabbitMQ connected on startup.
+2025-04-16 15:44:13.772 | INFO     | app.core.rabbitmq:consume:42 - [AMQP] Consuming queue: entry_queue
+2025-04-16 15:45:40.133 | INFO     | app.main:startup_event:60 - Redis connected on startup.
+2025-04-16 15:45:40.135 | INFO     | app.services.scheduler:start_cron_jobs:18 - Password expiry cron job scheduled.
+2025-04-16 15:45:40.149 | INFO     | app.core.rabbitmq:connect:18 - [AMQP] Connected to RabbitMQ
+2025-04-16 15:45:40.150 | INFO     | app.main:startup_event:68 - RabbitMQ connected on startup.
+2025-04-16 15:45:40.151 | INFO     | app.core.rabbitmq:consume:42 - [AMQP] Consuming queue: entry_queue
+2025-04-16 15:46:31.936 | INFO     | app.main:startup_event:60 - Redis connected on startup.
+2025-04-16 15:46:31.937 | INFO     | app.services.scheduler:start_cron_jobs:18 - Password expiry cron job scheduled.
+2025-04-16 15:46:31.946 | INFO     | app.core.rabbitmq:connect:18 - [AMQP] Connected to RabbitMQ
+2025-04-16 15:46:31.947 | INFO     | app.main:startup_event:68 - RabbitMQ connected on startup.
+2025-04-16 15:46:31.947 | INFO     | app.core.rabbitmq:consume:42 - [AMQP] Consuming queue: entry_queue
+2025-04-16 15:47:16.206 | INFO     | app.main:startup_event:60 - Redis connected on startup.
+2025-04-16 15:47:16.208 | INFO     | app.services.scheduler:start_cron_jobs:18 - Password expiry cron job scheduled.
+2025-04-16 15:47:16.228 | INFO     | app.core.rabbitmq:connect:18 - [AMQP] Connected to RabbitMQ
+2025-04-16 15:47:16.229 | INFO     | app.main:startup_event:68 - RabbitMQ connected on startup.
+2025-04-16 15:47:16.229 | INFO     | app.core.rabbitmq:consume:42 - [AMQP] Consuming queue: entry_queue
+2025-04-16 15:47:59.869 | INFO     | app.main:startup_event:60 - Redis connected on startup.
+2025-04-16 15:47:59.871 | INFO     | app.services.scheduler:start_cron_jobs:18 - Password expiry cron job scheduled.
+2025-04-16 15:47:59.880 | INFO     | app.core.rabbitmq:connect:18 - [AMQP] Connected to RabbitMQ
+2025-04-16 15:47:59.881 | INFO     | app.main:startup_event:68 - RabbitMQ connected on startup.
+2025-04-16 15:47:59.882 | INFO     | app.core.rabbitmq:consume:42 - [AMQP] Consuming queue: entry_queue
+2025-04-16 15:48:16.468 | INFO     | app.main:startup_event:60 - Redis connected on startup.
+2025-04-16 15:48:16.470 | INFO     | app.services.scheduler:start_cron_jobs:18 - Password expiry cron job scheduled.
+2025-04-16 15:48:16.482 | INFO     | app.core.rabbitmq:connect:18 - [AMQP] Connected to RabbitMQ
+2025-04-16 15:48:16.482 | INFO     | app.main:startup_event:68 - RabbitMQ connected on startup.
+2025-04-16 15:48:16.485 | INFO     | app.core.rabbitmq:consume:42 - [AMQP] Consuming queue: entry_queue
+2025-04-16 15:48:29.168 | INFO     | app.main:startup_event:60 - Redis connected on startup.
+2025-04-16 15:48:29.170 | INFO     | app.services.scheduler:start_cron_jobs:18 - Password expiry cron job scheduled.
+2025-04-16 15:48:29.178 | INFO     | app.core.rabbitmq:connect:18 - [AMQP] Connected to RabbitMQ
+2025-04-16 15:48:29.178 | INFO     | app.main:startup_event:68 - RabbitMQ connected on startup.
+2025-04-16 15:48:29.181 | INFO     | app.core.rabbitmq:consume:42 - [AMQP] Consuming queue: entry_queue
+2025-04-16 15:49:34.044 | INFO     | app.main:startup_event:60 - Redis connected on startup.
+2025-04-16 15:49:34.045 | INFO     | app.services.scheduler:start_cron_jobs:18 - Password expiry cron job scheduled.
+2025-04-16 15:49:34.064 | INFO     | app.core.rabbitmq:connect:18 - [AMQP] Connected to RabbitMQ
+2025-04-16 15:49:34.065 | INFO     | app.main:startup_event:68 - RabbitMQ connected on startup.
+2025-04-16 15:49:34.065 | INFO     | app.core.rabbitmq:consume:42 - [AMQP] Consuming queue: entry_queue
+2025-04-16 15:50:03.026 | INFO     | app.main:startup_event:60 - Redis connected on startup.
+2025-04-16 15:50:03.027 | INFO     | app.services.scheduler:start_cron_jobs:18 - Password expiry cron job scheduled.
+2025-04-16 15:50:03.038 | INFO     | app.core.rabbitmq:connect:18 - [AMQP] Connected to RabbitMQ
+2025-04-16 15:50:03.039 | INFO     | app.main:startup_event:68 - RabbitMQ connected on startup.
+2025-04-16 15:50:03.041 | INFO     | app.core.rabbitmq:consume:42 - [AMQP] Consuming queue: entry_queue
+2025-04-16 15:50:26.327 | INFO     | app.main:startup_event:60 - Redis connected on startup.
+2025-04-16 15:50:26.329 | INFO     | app.services.scheduler:start_cron_jobs:18 - Password expiry cron job scheduled.
+2025-04-16 15:50:26.342 | INFO     | app.core.rabbitmq:connect:18 - [AMQP] Connected to RabbitMQ
+2025-04-16 15:50:26.343 | INFO     | app.main:startup_event:68 - RabbitMQ connected on startup.
+2025-04-16 15:50:26.343 | INFO     | app.core.rabbitmq:consume:42 - [AMQP] Consuming queue: entry_queue
+2025-04-16 15:51:41.799 | INFO     | app.main:startup_event:60 - Redis connected on startup.
+2025-04-16 15:51:41.801 | INFO     | app.services.scheduler:start_cron_jobs:18 - Password expiry cron job scheduled.
+2025-04-16 15:51:41.817 | INFO     | app.core.rabbitmq:connect:18 - [AMQP] Connected to RabbitMQ
+2025-04-16 15:51:41.817 | INFO     | app.main:startup_event:68 - RabbitMQ connected on startup.
+2025-04-16 15:51:41.820 | INFO     | app.core.rabbitmq:consume:42 - [AMQP] Consuming queue: entry_queue
+2025-04-16 15:52:27.050 | INFO     | app.main:startup_event:60 - Redis connected on startup.
+2025-04-16 15:52:27.052 | INFO     | app.services.scheduler:start_cron_jobs:18 - Password expiry cron job scheduled.
+2025-04-16 15:52:27.061 | INFO     | app.core.rabbitmq:connect:18 - [AMQP] Connected to RabbitMQ
+2025-04-16 15:52:27.062 | INFO     | app.main:startup_event:68 - RabbitMQ connected on startup.
+2025-04-16 15:52:27.062 | INFO     | app.core.rabbitmq:consume:42 - [AMQP] Consuming queue: entry_queue
+2025-04-16 15:52:54.361 | INFO     | app.main:startup_event:60 - Redis connected on startup.
+2025-04-16 15:52:54.363 | INFO     | app.services.scheduler:start_cron_jobs:18 - Password expiry cron job scheduled.
+2025-04-16 15:52:54.374 | INFO     | app.core.rabbitmq:connect:18 - [AMQP] Connected to RabbitMQ
+2025-04-16 15:52:54.375 | INFO     | app.main:startup_event:68 - RabbitMQ connected on startup.
+2025-04-16 15:52:54.378 | INFO     | app.core.rabbitmq:consume:42 - [AMQP] Consuming queue: entry_queue
+2025-04-16 15:54:48.682 | INFO     | app.main:startup_event:60 - Redis connected on startup.
+2025-04-16 15:54:48.684 | INFO     | app.services.scheduler:start_cron_jobs:18 - Password expiry cron job scheduled.
+2025-04-16 15:54:48.706 | INFO     | app.core.rabbitmq:connect:18 - [AMQP] Connected to RabbitMQ
+2025-04-16 15:54:48.707 | INFO     | app.main:startup_event:68 - RabbitMQ connected on startup.
+2025-04-16 15:54:48.710 | INFO     | app.core.rabbitmq:consume:42 - [AMQP] Consuming queue: entry_queue
+2025-04-16 15:56:01.927 | INFO     | app.main:startup_event:60 - Redis connected on startup.
+2025-04-16 15:56:01.928 | INFO     | app.services.scheduler:start_cron_jobs:18 - Password expiry cron job scheduled.
+2025-04-16 15:56:01.940 | INFO     | app.core.rabbitmq:connect:18 - [AMQP] Connected to RabbitMQ
+2025-04-16 15:56:01.941 | INFO     | app.main:startup_event:68 - RabbitMQ connected on startup.
+2025-04-16 15:56:01.942 | INFO     | app.core.rabbitmq:consume:42 - [AMQP] Consuming queue: entry_queue
+2025-04-16 15:56:09.658 | INFO     | app.main:startup_event:60 - Redis connected on startup.
+2025-04-16 15:56:09.659 | INFO     | app.services.scheduler:start_cron_jobs:18 - Password expiry cron job scheduled.
+2025-04-16 15:56:09.673 | INFO     | app.core.rabbitmq:connect:18 - [AMQP] Connected to RabbitMQ
+2025-04-16 15:56:09.673 | INFO     | app.main:startup_event:68 - RabbitMQ connected on startup.
+2025-04-16 15:56:09.674 | INFO     | app.core.rabbitmq:consume:42 - [AMQP] Consuming queue: entry_queue
+2025-04-16 15:57:39.525 | INFO     | app.main:startup_event:60 - Redis connected on startup.
+2025-04-16 15:57:39.527 | INFO     | app.services.scheduler:start_cron_jobs:18 - Password expiry cron job scheduled.
+2025-04-16 15:57:39.542 | INFO     | app.core.rabbitmq:connect:18 - [AMQP] Connected to RabbitMQ
+2025-04-16 15:57:39.542 | INFO     | app.main:startup_event:68 - RabbitMQ connected on startup.
+2025-04-16 15:57:39.545 | INFO     | app.core.rabbitmq:consume:42 - [AMQP] Consuming queue: entry_queue
+2025-04-16 15:59:10.059 | INFO     | app.main:startup_event:60 - Redis connected on startup.
+2025-04-16 15:59:10.061 | INFO     | app.services.scheduler:start_cron_jobs:18 - Password expiry cron job scheduled.
+2025-04-16 15:59:10.086 | INFO     | app.core.rabbitmq:connect:18 - [AMQP] Connected to RabbitMQ
+2025-04-16 15:59:10.087 | INFO     | app.main:startup_event:68 - RabbitMQ connected on startup.
+2025-04-16 15:59:10.087 | INFO     | app.core.rabbitmq:consume:42 - [AMQP] Consuming queue: entry_queue
+2025-04-16 15:59:54.427 | INFO     | app.main:startup_event:60 - Redis connected on startup.
+2025-04-16 15:59:54.429 | INFO     | app.services.scheduler:start_cron_jobs:18 - Password expiry cron job scheduled.
+2025-04-16 15:59:54.438 | INFO     | app.core.rabbitmq:connect:18 - [AMQP] Connected to RabbitMQ
+2025-04-16 15:59:54.439 | INFO     | app.main:startup_event:68 - RabbitMQ connected on startup.
+2025-04-16 15:59:54.439 | INFO     | app.core.rabbitmq:consume:42 - [AMQP] Consuming queue: entry_queue
+2025-04-16 16:00:06.688 | INFO     | app.main:startup_event:60 - Redis connected on startup.
+2025-04-16 16:00:06.690 | INFO     | app.services.scheduler:start_cron_jobs:18 - Password expiry cron job scheduled.
+2025-04-16 16:00:06.700 | INFO     | app.core.rabbitmq:connect:18 - [AMQP] Connected to RabbitMQ
+2025-04-16 16:00:06.701 | INFO     | app.main:startup_event:68 - RabbitMQ connected on startup.
+2025-04-16 16:00:06.704 | INFO     | app.core.rabbitmq:consume:42 - [AMQP] Consuming queue: entry_queue
+2025-04-16 16:00:44.366 | INFO     | app.main:startup_event:60 - Redis connected on startup.
+2025-04-16 16:00:44.368 | INFO     | app.services.scheduler:start_cron_jobs:18 - Password expiry cron job scheduled.
+2025-04-16 16:00:44.387 | INFO     | app.core.rabbitmq:connect:18 - [AMQP] Connected to RabbitMQ
+2025-04-16 16:00:44.387 | INFO     | app.main:startup_event:68 - RabbitMQ connected on startup.
+2025-04-16 16:00:44.390 | INFO     | app.core.rabbitmq:consume:42 - [AMQP] Consuming queue: entry_queue
+2025-04-16 16:01:06.605 | INFO     | app.main:startup_event:60 - Redis connected on startup.
+2025-04-16 16:01:06.606 | INFO     | app.services.scheduler:start_cron_jobs:18 - Password expiry cron job scheduled.
+2025-04-16 16:01:06.613 | INFO     | app.core.rabbitmq:connect:18 - [AMQP] Connected to RabbitMQ
+2025-04-16 16:01:06.614 | INFO     | app.main:startup_event:68 - RabbitMQ connected on startup.
+2025-04-16 16:01:06.617 | INFO     | app.core.rabbitmq:consume:42 - [AMQP] Consuming queue: entry_queue
+2025-04-16 16:01:19.566 | INFO     | app.main:startup_event:60 - Redis connected on startup.
+2025-04-16 16:01:19.568 | INFO     | app.services.scheduler:start_cron_jobs:18 - Password expiry cron job scheduled.
+2025-04-16 16:01:19.578 | INFO     | app.core.rabbitmq:connect:18 - [AMQP] Connected to RabbitMQ
+2025-04-16 16:01:19.578 | INFO     | app.main:startup_event:68 - RabbitMQ connected on startup.
+2025-04-16 16:01:19.581 | INFO     | app.core.rabbitmq:consume:42 - [AMQP] Consuming queue: entry_queue
+2025-04-16 16:02:02.555 | INFO     | app.main:startup_event:60 - Redis connected on startup.
+2025-04-16 16:02:02.557 | INFO     | app.services.scheduler:start_cron_jobs:18 - Password expiry cron job scheduled.
+2025-04-16 16:02:02.580 | INFO     | app.core.rabbitmq:connect:18 - [AMQP] Connected to RabbitMQ
+2025-04-16 16:02:02.581 | INFO     | app.main:startup_event:68 - RabbitMQ connected on startup.
+2025-04-16 16:02:02.585 | INFO     | app.core.rabbitmq:consume:42 - [AMQP] Consuming queue: entry_queue
+2025-04-16 16:03:38.878 | INFO     | app.main:startup_event:60 - Redis connected on startup.
+2025-04-16 16:03:38.880 | INFO     | app.services.scheduler:start_cron_jobs:18 - Password expiry cron job scheduled.
+2025-04-16 16:03:38.903 | INFO     | app.core.rabbitmq:connect:18 - [AMQP] Connected to RabbitMQ
+2025-04-16 16:03:38.904 | INFO     | app.main:startup_event:68 - RabbitMQ connected on startup.
+2025-04-16 16:03:38.907 | INFO     | app.core.rabbitmq:consume:42 - [AMQP] Consuming queue: entry_queue
+2025-04-16 16:03:52.050 | INFO     | app.main:startup_event:60 - Redis connected on startup.
+2025-04-16 16:03:52.052 | INFO     | app.services.scheduler:start_cron_jobs:18 - Password expiry cron job scheduled.
+2025-04-16 16:03:52.060 | INFO     | app.core.rabbitmq:connect:18 - [AMQP] Connected to RabbitMQ
+2025-04-16 16:03:52.061 | INFO     | app.main:startup_event:68 - RabbitMQ connected on startup.
+2025-04-16 16:03:52.063 | INFO     | app.core.rabbitmq:consume:42 - [AMQP] Consuming queue: entry_queue
+2025-04-16 16:04:47.833 | INFO     | app.main:startup_event:60 - Redis connected on startup.
+2025-04-16 16:04:47.835 | INFO     | app.services.scheduler:start_cron_jobs:18 - Password expiry cron job scheduled.
+2025-04-16 16:04:47.842 | INFO     | app.core.rabbitmq:connect:18 - [AMQP] Connected to RabbitMQ
+2025-04-16 16:04:47.843 | INFO     | app.main:startup_event:68 - RabbitMQ connected on startup.
+2025-04-16 16:04:47.846 | INFO     | app.core.rabbitmq:consume:42 - [AMQP] Consuming queue: entry_queue
+2025-04-16 16:05:31.661 | INFO     | app.main:startup_event:60 - Redis connected on startup.
+2025-04-16 16:05:31.663 | INFO     | app.services.scheduler:start_cron_jobs:18 - Password expiry cron job scheduled.
+2025-04-16 16:05:31.683 | INFO     | app.core.rabbitmq:connect:18 - [AMQP] Connected to RabbitMQ
+2025-04-16 16:05:31.683 | INFO     | app.main:startup_event:68 - RabbitMQ connected on startup.
+2025-04-16 16:05:31.684 | INFO     | app.core.rabbitmq:consume:42 - [AMQP] Consuming queue: entry_queue
+2025-04-16 16:06:32.588 | INFO     | app.main:startup_event:60 - Redis connected on startup.
+2025-04-16 16:06:32.590 | INFO     | app.services.scheduler:start_cron_jobs:18 - Password expiry cron job scheduled.
+2025-04-16 16:06:32.600 | INFO     | app.core.rabbitmq:connect:18 - [AMQP] Connected to RabbitMQ
+2025-04-16 16:06:32.601 | INFO     | app.main:startup_event:68 - RabbitMQ connected on startup.
+2025-04-16 16:06:32.601 | INFO     | app.core.rabbitmq:consume:42 - [AMQP] Consuming queue: entry_queue
+2025-04-16 16:07:11.067 | INFO     | app.main:startup_event:60 - Redis connected on startup.
+2025-04-16 16:07:11.069 | INFO     | app.services.scheduler:start_cron_jobs:18 - Password expiry cron job scheduled.
+2025-04-16 16:07:11.086 | INFO     | app.core.rabbitmq:connect:18 - [AMQP] Connected to RabbitMQ
+2025-04-16 16:07:11.086 | INFO     | app.main:startup_event:68 - RabbitMQ connected on startup.
+2025-04-16 16:07:11.090 | INFO     | app.core.rabbitmq:consume:42 - [AMQP] Consuming queue: entry_queue
+2025-04-16 16:08:25.563 | INFO     | app.main:startup_event:60 - Redis connected on startup.
+2025-04-16 16:08:25.564 | INFO     | app.services.scheduler:start_cron_jobs:18 - Password expiry cron job scheduled.
+2025-04-16 16:08:25.576 | INFO     | app.core.rabbitmq:connect:18 - [AMQP] Connected to RabbitMQ
+2025-04-16 16:08:25.576 | INFO     | app.main:startup_event:68 - RabbitMQ connected on startup.
+2025-04-16 16:08:25.577 | INFO     | app.core.rabbitmq:consume:42 - [AMQP] Consuming queue: entry_queue
+2025-04-16 16:09:13.018 | INFO     | app.main:startup_event:60 - Redis connected on startup.
+2025-04-16 16:09:13.020 | INFO     | app.services.scheduler:start_cron_jobs:18 - Password expiry cron job scheduled.
+2025-04-16 16:09:13.038 | INFO     | app.core.rabbitmq:connect:18 - [AMQP] Connected to RabbitMQ
+2025-04-16 16:09:13.039 | INFO     | app.main:startup_event:68 - RabbitMQ connected on startup.
+2025-04-16 16:09:13.040 | INFO     | app.core.rabbitmq:consume:42 - [AMQP] Consuming queue: entry_queue

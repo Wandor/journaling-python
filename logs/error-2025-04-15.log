@@ -1,0 +1,6 @@
+2025-04-15 17:35:07.936 | ERROR    | app.core.redis_helper:redis_set:58 - Error in RedisHelper.redis_set: Object of type datetime is not JSON serializable
+2025-04-15 17:42:46.115 | ERROR    | app.main:startup_event:64 - Redis not available on startup: 'coroutine' object has no attribute 'ping'
+2025-04-15 20:20:44.200 | ERROR    | app.core.authenticator:authenticate_user:33 - Not enough segments
+2025-04-15 21:35:41.982 | ERROR    | app.db.session:get_db:18 - 409: Category exists!
+2025-04-15 21:38:04.429 | ERROR    | app.db.session:get_db:18 - 409: Category exists!
+2025-04-15 21:40:45.628 | ERROR    | app.db.session:get_db:18 - 409: Category exists!

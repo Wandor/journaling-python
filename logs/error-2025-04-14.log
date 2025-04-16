@@ -1,0 +1,4 @@
+2025-04-14 18:40:36.056 | ERROR    | app.main:<module>:39 - Error log from Loguru.
+2025-04-14 18:40:36.056 | CRITICAL | app.main:<module>:40 - Critical log from Loguru.
+2025-04-14 21:11:21.779 | ERROR    | app.core.redis_helper:redis_set:58 - Error in RedisHelper.redis_set: Object of type datetime is not JSON serializable
+2025-04-14 21:11:33.030 | ERROR    | app.core.redis_helper:redis_set:58 - Error in RedisHelper.redis_set: Object of type datetime is not JSON serializable
